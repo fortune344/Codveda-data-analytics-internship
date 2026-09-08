@@ -4,7 +4,7 @@ Projet réalisé dans le cadre du stage **Data Analytics** chez **[Codveda Techn
 
 Ce dépôt couvre les **Tasks 1 & 2** du **Level 1 (Basic)**, appliquées au dataset **Iris**.
 
-## 📋 Tâches réalisées
+##  Tâches réalisées
 
 ### Task 1 — Data Cleaning and Preprocessing
 - Chargement du dataset avec `pandas`
@@ -18,7 +18,7 @@ Ce dépôt couvre les **Tasks 1 & 2** du **Level 1 (Basic)**, appliquées au dat
 - Relations entre variables : pairplot (scatter plots croisés)
 - Matrice de corrélation entre variables numériques
 
-## 🔍 Principaux insights
+##  Principaux insights
 
 - Aucune valeur manquante dans le dataset ; 3 doublons supprimés lors du nettoyage.
 - `petal_length` et `petal_width` sont très fortement corrélées (r ≈ 0.96) — ce sont les deux variables les plus discriminantes entre espèces.
@@ -26,14 +26,14 @@ Ce dépôt couvre les **Tasks 1 & 2** du **Level 1 (Basic)**, appliquées au dat
 - **Versicolor** et **virginica** se chevauchent partiellement, virginica ayant globalement des pétales et sépales plus grands.
 - Le dataset nettoyé est prêt pour une modélisation (classification, clustering) en Level 2/3.
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - Python
 - pandas
 - matplotlib
 - seaborn
 
-## 📁 Structure du dépôt
+##  Structure du dépôt
 
 ```
 ├── Codveda_Iris_Task1_Task2.ipynb   # Notebook principal (Task 1 + Task 2)
@@ -42,18 +42,10 @@ Ce dépôt couvre les **Tasks 1 & 2** du **Level 1 (Basic)**, appliquées au dat
 └── README.md
 ```
 
-## ▶️ Utilisation
+##  Utilisation
 
 ```bash
 pip install pandas matplotlib seaborn jupyter
 jupyter notebook Codveda_Iris_Task1_Task2.ipynb
 ```
 
-## 👤 Auteur
-
-**Fortuné Assouan**
-[LinkedIn](https://linkedin.com/in/fortuné-assouan-a29561a7) · [Portfolio](https://fortuneassouan.vercel.app)
-
----
-*Stage Data Analytics — Codveda Technology*
-#CodvedaJourney #CodvedaExperience #FutureWithCodveda

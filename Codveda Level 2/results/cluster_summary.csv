@@ -1,0 +1,4 @@
+cluster,n_stocks,avg_daily_return_pct,volatility_pct,avg_volume_millions,avg_price_usd
+0,265,0.059,1.375,1.591,119.588
+1,161,0.047,1.459,8.014,47.336
+2,74,-0.004,2.381,5.595,49.94

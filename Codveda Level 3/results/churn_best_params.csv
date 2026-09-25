@@ -1,0 +1,4 @@
+model,cv_f1,best_params
+Logistic Regression,0.484,{'C': 0.1}
+Decision Tree,0.752,"{'criterion': 'entropy', 'max_depth': 5, 'min_samples_leaf': 1}"
+Random Forest,0.785,"{'max_depth': 12, 'min_samples_leaf': 2, 'n_estimators': 400}"

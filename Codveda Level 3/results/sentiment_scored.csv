@@ -1,0 +1,707 @@
+text,emotion,emotion_group,platform,country,timestamp,likes,retweets,textblob_score,textblob_sentiment,vader_score,vader_sentiment,sentiment
+Enjoying a beautiful day at the park!,Positive,Positive,Twitter,USA,2023-01-15 12:30:00,30,15,0.675,Positive,0.8221,Positive,Positive
+Traffic was terrible this morning.,Negative,Negative,Twitter,Canada,2023-01-15 08:45:00,10,5,-1.0,Negative,-0.4767,Negative,Negative
+Just finished an amazing workout! 💪,Positive,Positive,Instagram,USA,2023-01-15 15:45:00,40,20,0.6,Positive,0.6239,Positive,Positive
+Excited about the upcoming weekend getaway!,Positive,Positive,Facebook,UK,2023-01-15 18:20:00,15,8,0.375,Positive,0.4003,Positive,Positive
+Trying out a new recipe for dinner tonight.,Neutral,Neutral,Instagram,Australia,2023-01-15 19:55:00,25,12,0.1364,Positive,0.0,Neutral,Neutral
+Feeling grateful for the little things in life.,Positive,Positive,Twitter,India,2023-01-16 09:10:00,50,25,-0.1875,Negative,0.5423,Positive,Positive
+Rainy days call for cozy blankets and hot cocoa.,Positive,Positive,Facebook,Canada,2023-01-16 14:45:00,20,10,0.025,Neutral,-0.0772,Negative,Negative
+The new movie release is a must-watch!,Positive,Positive,Instagram,USA,2023-01-16 19:30:00,30,15,0.1364,Positive,0.0,Neutral,Neutral
+Political discussions heating up on the timeline.,Negative,Negative,Twitter,USA,2023-01-17 08:00:00,60,30,0.0,Neutral,0.0,Neutral,Neutral
+Missing summer vibes and beach days.,Neutral,Neutral,Facebook,Australia,2023-01-17 12:20:00,35,18,-0.2,Negative,-0.296,Negative,Negative
+Just published a new blog post. Check it out!,Positive,Positive,Instagram,USA,2023-01-17 15:15:00,45,22,0.1364,Positive,0.0,Neutral,Neutral
+Feeling a bit under the weather today.,Negative,Negative,Twitter,Canada,2023-01-18 10:30:00,15,7,0.0,Neutral,0.128,Positive,Positive
+Exploring the city's hidden gems.,Positive,Positive,Facebook,UK,2023-01-18 14:50:00,25,12,-0.1667,Negative,0.0,Neutral,Neutral
+"New year, new fitness goals! 💪",Positive,Positive,Instagram,USA,2023-01-18 18:00:00,55,28,0.1364,Positive,0.3382,Positive,Positive
+Technology is changing the way we live.,Neutral,Neutral,Twitter,India,2023-01-19 09:45:00,30,15,0.1364,Positive,0.0,Neutral,Neutral
+Reflecting on the past and looking ahead.,Positive,Positive,Facebook,USA,2023-01-19 13:20:00,40,20,-0.25,Negative,0.0,Neutral,Neutral
+Just adopted a cute furry friend! 🐾,Positive,Positive,Instagram,Canada,2023-01-19 17:10:00,30,15,0.5,Positive,0.7574,Positive,Positive
+Late-night gaming session with friends.,Positive,Positive,Twitter,UK,2023-01-20 00:05:00,35,18,-0.3,Negative,0.4767,Positive,Positive
+Attending a virtual conference on AI.,Neutral,Neutral,Facebook,USA,2023-01-20 11:30:00,50,25,0.0,Neutral,0.0,Neutral,Neutral
+Winter blues got me feeling low.,Negative,Negative,Instagram,USA,2023-01-20 15:15:00,15,8,0.0,Neutral,-0.1531,Negative,Negative
+Sipping coffee and enjoying a good book.,Positive,Positive,Twitter,India,2023-01-21 08:40:00,45,22,0.6,Positive,0.743,Positive,Positive
+Exploring the world of virtual reality.,Positive,Positive,Facebook,USA,2023-01-21 13:20:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+Productive day ticking off my to-do list.,Positive,Positive,Instagram,USA,2023-01-21 16:45:00,60,30,0.0,Neutral,0.0,Neutral,Neutral
+Just finished a challenging workout routine.,Positive,Positive,Twitter,UK,2023-01-22 09:15:00,40,20,0.5,Positive,0.1531,Positive,Positive
+Celebrating a milestone at work! 🎉,Positive,Positive,Facebook,Canada,2023-01-22 14:30:00,25,12,0.0,Neutral,0.6114,Positive,Positive
+Sunday brunch with friends.,Positive,Positive,Instagram,UK,2023-01-22 12:00:00,30,15,0.0,Neutral,0.4767,Positive,Positive
+Learning a new language for personal growth.,Positive,Positive,Facebook,India,2023-01-23 16:20:00,50,25,0.0682,Positive,0.3818,Positive,Positive
+Quiet evening with a good book.,Positive,Positive,Instagram,Australia,2023-01-23 19:45:00,30,15,0.35,Positive,0.4404,Positive,Positive
+Reflecting on the importance of mental health.,Positive,Positive,Twitter,USA,2023-01-24 11:30:00,45,22,-0.1,Negative,0.3612,Positive,Positive
+New painting in progress! 🎨,Positive,Positive,Facebook,Canada,2023-01-24 15:00:00,25,12,0.1364,Positive,0.4753,Positive,Positive
+Weekend road trip to explore scenic views.,Positive,Positive,Instagram,UK,2023-01-24 17:30:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Enjoying a cup of tea and watching the sunset.,Positive,Positive,Twitter,India,2023-01-25 18:00:00,30,15,0.5,Positive,0.5267,Positive,Positive
+Coding a new project with enthusiasm.,Positive,Positive,Facebook,USA,2023-01-25 13:15:00,60,30,0.1364,Positive,0.4404,Positive,Positive
+Feeling inspired after attending a workshop.,Positive,Positive,Instagram,USA,2023-01-26 09:45:00,50,25,0.0,Neutral,0.5719,Positive,Positive
+Winter sports day at the local park.,Positive,Positive,Twitter,Canada,2023-01-26 14:20:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+Quality time with family this weekend.,Positive,Positive,Facebook,UK,2023-01-26 17:40:00,45,22,0.0,Neutral,0.0,Neutral,Neutral
+Attending a live music concert tonight.,Positive,Positive,Instagram,USA,2023-01-27 20:00:00,35,18,0.1364,Positive,0.0,Neutral,Neutral
+Practicing mindfulness with meditation.,Positive,Positive,Twitter,India,2023-01-27 12:30:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+Trying out a new dessert recipe.,Positive,Positive,Facebook,Canada,2023-01-27 16:10:00,25,12,0.1364,Positive,0.0,Neutral,Neutral
+Excited about the upcoming gaming tournament.,Positive,Positive,Instagram,USA,2023-01-28 09:00:00,60,30,0.375,Positive,0.34,Positive,Positive
+Planning a garden makeover for spring.,Positive,Positive,Twitter,USA,2023-01-28 14:45:00,50,25,0.0,Neutral,0.0,Neutral,Neutral
+Celebrating a friend's birthday tonight! 🎂,Positive,Positive,Facebook,UK,2023-01-28 19:30:00,30,15,0.0,Neutral,0.6114,Positive,Positive
+Feeling accomplished after a productive day.,Positive,Positive,Instagram,India,2023-01-29 17:00:00,45,22,0.2,Positive,0.5267,Positive,Positive
+A cozy evening with a good movie.,Positive,Positive,Twitter,Canada,2023-01-29 20:20:00,35,18,0.25,Positive,0.4404,Positive,Positive
+Exploring local art galleries this weekend.,Positive,Positive,Facebook,USA,2023-01-30 11:30:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+New book release from my favorite author!,Positive,Positive,Instagram,UK,2023-01-30 15:45:00,25,12,0.3182,Positive,0.5093,Positive,Positive
+Attending a virtual reality meetup.,Positive,Positive,Twitter,India,2023-01-30 18:30:00,55,28,0.0,Neutral,0.0,Neutral,Neutral
+Reflecting on the beauty of nature.,Positive,Positive,Facebook,Australia,2023-01-31 10:45:00,30,15,0.0,Neutral,0.5859,Positive,Positive
+Cooking a special dinner for loved ones.,Positive,Positive,Instagram,USA,2023-01-31 19:00:00,40,20,0.5286,Positive,0.765,Positive,Positive
+Feeling optimistic about the week ahead.,Positive,Positive,Twitter,Canada,2023-01-31 16:20:00,30,15,0.0,Neutral,0.4215,Positive,Positive
+Starting a new fitness challenge tomorrow! 💪,Positive,Positive,Facebook,UK,2023-02-01 08:00:00,45,22,0.0682,Positive,0.4003,Positive,Positive
+Sunday bike ride through scenic trails.,Positive,Positive,Instagram,USA,2023-02-01 13:30:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Can't believe the injustice happening in our society.,Anger,Negative,Twitter,Canada,2023-02-11 09:30:00,40,20,0.0,Neutral,0.4585,Positive,Positive
+Feeling a sense of fear after watching a thriller movie.,Fear,Negative,Instagram,USA,2023-02-11 21:15:00,30,15,0.0,Neutral,-0.3182,Negative,Negative
+Heartbroken after hearing the news about a natural disaster.,Sadness,Negative,Facebook,India,2023-02-12 14:45:00,50,25,0.1,Positive,-0.7845,Negative,Negative
+The state of the world's environment is just disgusting.,Disgust,Negative,Twitter,UK,2023-02-12 18:20:00,35,18,-1.0,Negative,-0.5267,Negative,Negative
+Pure happiness: celebrating a loved one's achievement!,Happiness,Positive,Instagram,USA,2023-02-13 10:00:00,60,30,0.5381,Positive,0.9098,Positive,Positive
+Laughter is the best medicine—enjoying a comedy show.,Joy,Positive,Facebook,Canada,2023-02-13 19:30:00,45,22,0.75,Positive,0.872,Positive,Positive
+Sharing love and positive vibes with everyone! ❤️,Love,Positive,Twitter,Australia,2023-02-14 08:30:00,30,15,0.3636,Positive,0.8977,Positive,Positive
+An amusing incident brightened up my day!,Amusement,Positive,Instagram,UK,2023-02-14 14:20:00,35,18,0.6,Positive,0.7177,Positive,Positive
+Enjoying a quiet evening with a book and some tea.,Enjoyment,Positive,Facebook,Canada,2023-02-14 19:45:00,50,25,0.25,Positive,0.5267,Positive,Positive
+Admiring the beauty of nature during a peaceful hike.,Admiration,Positive,Twitter,USA,2023-02-15 11:30:00,40,20,0.25,Positive,0.8625,Positive,Positive
+Sending affectionate vibes to all my followers!,Affection,Positive,Instagram,USA,2023-02-15 16:00:00,30,15,0.0,Neutral,0.4926,Positive,Positive
+Experiencing awe at the breathtaking sunset.,Awe,Positive,Facebook,Australia,2023-02-15 20:30:00,45,22,1.0,Positive,0.4588,Positive,Positive
+Disappointed with the service at a local restaurant.,Disappointed,Negative,Twitter,India,2023-02-16 09:00:00,35,18,-0.375,Negative,-0.4767,Negative,Negative
+A surprise gift from a friend made my day!,Surprise,Neutral,Instagram,USA,2023-02-16 14:45:00,50,25,0.0,Neutral,0.8172,Positive,Positive
+Finding acceptance in the midst of life's challenges.,Acceptance,Neutral,Facebook,Canada,2023-02-16 18:20:00,30,15,0.0,Neutral,0.5106,Positive,Positive
+Overflowing with adoration for my adorable pet! 🐾,Adoration,Positive,Twitter,UK,2023-02-17 10:45:00,45,22,0.5,Positive,0.8122,Positive,Positive
+Anticipating a thrilling adventure in the coming weeks.,Anticipation,Neutral,Instagram,USA,2023-02-17 07:30:00,40,20,0.25,Positive,0.6597,Positive,Positive
+A bitter experience turned into a valuable lesson.,Bitter,Negative,Facebook,USA,2023-02-17 15:00:00,35,18,-0.1,Negative,0.0772,Positive,Positive
+Finding calmness in the midst of a busy day.,Calmness,Positive,Twitter,India,2023-02-18 09:30:00,30,15,0.1,Positive,0.4019,Positive,Positive
+Confusion clouds my mind as I navigate through decisions.,Confusion,Negative,Instagram,UK,2023-02-18 14:20:00,50,25,0.0,Neutral,-0.296,Negative,Negative
+Excitement building up for the upcoming vacation!,Excitement,Positive,Facebook,Canada,2023-02-18 18:45:00,45,22,0.0,Neutral,0.5411,Positive,Positive
+Kindness witnessed today restored my faith in humanity.,Kind,Positive,Twitter,USA,2023-02-19 11:30:00,40,20,0.0,Neutral,0.802,Positive,Positive
+Pride in achieving a personal milestone.,Pride,Positive,Instagram,Australia,2023-02-19 16:00:00,60,30,0.0,Neutral,0.34,Positive,Positive
+A moment of shame for not standing up against injustice.,Shame,Negative,Facebook,India,2023-02-19 19:45:00,30,15,0.0,Neutral,-0.7783,Negative,Negative
+Fuming with anger after a heated argument.,Anger,Negative,Twitter,Canada,2023-02-20 09:30:00,40,20,-0.7,Negative,-0.872,Negative,Negative
+The fear of the unknown is keeping me up at night.,Fear,Negative,Instagram,USA,2023-02-20 21:15:00,30,15,-0.1,Negative,-0.4939,Negative,Negative
+Heartfelt sadness after bidding farewell to a dear friend.,Sadness,Negative,Facebook,India,2023-02-21 14:45:00,50,25,0.0,Neutral,0.7506,Positive,Positive
+The state of corruption in our society is utterly disgusting.,Disgust,Negative,Twitter,UK,2023-02-21 18:20:00,35,18,-1.0,Negative,-0.5709,Negative,Negative
+Overflowing happiness: welcoming a new family member!,Happiness,Positive,Instagram,UK,2023-02-22 10:00:00,60,30,0.4182,Positive,0.7777,Positive,Positive
+Laughter is the key to joy—attending a stand-up comedy show.,Joy,Positive,Facebook,Canada,2023-02-22 19:30:00,45,22,0.4,Positive,0.6908,Positive,Positive
+Sending love to all my followers on this beautiful day! ❤️,Love,Positive,Twitter,Australia,2023-02-23 08:30:00,30,15,0.675,Positive,0.8784,Positive,Positive
+Amused by the antics of my pet—it's pure amusement!,Amusement,Positive,Instagram,UK,2023-02-23 14:20:00,35,18,0.2143,Positive,0.68,Positive,Positive
+Enjoying every moment of this trip—pure enjoyment!,Enjoyment,Positive,Facebook,USA,2023-02-23 19:45:00,50,25,0.3571,Positive,0.807,Positive,Positive
+Admiring the dedication of volunteers at a local charity.,Admiration,Positive,Twitter,USA,2023-02-24 11:30:00,40,20,0.0,Neutral,0.6597,Positive,Positive
+Sending affectionate vibes to friends and family.,Affection,Positive,Instagram,USA,2023-02-24 16:00:00,30,15,0.0,Neutral,0.7184,Positive,Positive
+Awe-struck by the beauty of the night sky.,Awe,Positive,Facebook,Australia,2023-02-24 20:30:00,45,22,0.0,Neutral,0.5859,Positive,Positive
+Disappointed with the lack of progress in a personal project.,Disappointed,Negative,Twitter,India,2023-02-25 09:00:00,35,18,-0.375,Negative,-0.3818,Negative,Negative
+A surprise visit from an old friend brought tears of joy.,Surprise,Neutral,Instagram,USA,2023-02-25 14:45:00,50,25,0.45,Positive,0.802,Positive,Positive
+Embracing acceptance of life's ups and downs.,Acceptance,Neutral,Facebook,Canada,2023-02-25 18:20:00,30,15,0.0,Neutral,0.4588,Positive,Positive
+Overflowing adoration for a cute rescue puppy! 🐶,Adoration,Positive,Twitter,UK,2023-02-26 10:45:00,45,22,0.5,Positive,0.8883,Positive,Positive
+Anticipating the release of a much-awaited movie.,Anticipation,Neutral,Instagram,Australia,2023-02-26 07:30:00,40,20,0.2,Positive,0.0,Neutral,Neutral
+Bitter experience at the customer service department.,Bitter,Negative,Facebook,USA,2023-02-26 15:00:00,35,18,-0.1,Negative,-0.4215,Negative,Negative
+Finding calmness amidst the chaos of daily life.,Calmness,Positive,Twitter,India,2023-02-27 09:30:00,30,15,0.0,Neutral,-0.25,Negative,Negative
+Confusion reigns as I try to make sense of recent events.,Confusion,Negative,Instagram,UK,2023-02-27 14:20:00,50,25,0.0,Neutral,-0.296,Negative,Negative
+Excitement building up for a surprise birthday party.,Excitement,Positive,Facebook,Canada,2023-02-27 18:45:00,45,22,0.0,Neutral,0.7906,Positive,Positive
+Witnessed an act of kindness that made my day.,Kind,Positive,Twitter,USA,2023-02-28 11:30:00,40,20,0.0,Neutral,0.4588,Positive,Positive
+Pride in completing a challenging fitness challenge.,Pride,Positive,Instagram,UK,2023-02-28 16:00:00,60,30,0.5,Positive,0.6597,Positive,Positive
+A moment of shame for not speaking up against injustice.,Shame,Negative,Facebook,India,2023-02-28 19:45:00,30,15,0.0,Neutral,-0.7783,Negative,Negative
+Reflecting on the beauty of diversity in our world.,Acceptance,Neutral,Twitter,Australia,2023-03-01 10:45:00,45,22,0.0,Neutral,0.5859,Positive,Positive
+Excitement for a quiet evening with a good book.,Excitement,Positive,Instagram,USA,2023-03-01 13:30:00,35,18,0.35,Positive,0.7269,Positive,Positive
+Feeling bitter about the unfairness in the workplace.,Bitter,Negative,Twitter,Canada,2023-03-01 17:45:00,30,15,-0.1,Negative,-0.3182,Negative,Negative
+Calmness prevails as I practice mindfulness.,Calmness,Positive,Facebook,UK,2023-03-02 18:00:00,30,15,0.0,Neutral,0.4019,Positive,Positive
+Confusion surrounds me as I navigate through life's choices.,Confusion,Negative,Instagram,USA,2023-03-02 13:15:00,60,30,0.0,Neutral,-0.296,Negative,Negative
+Excitement for a weekend road trip to explore new places.,Excitement,Positive,Twitter,India,2023-03-02 16:45:00,50,25,0.1364,Positive,0.4939,Positive,Positive
+Kindness witnessed today restores my faith in humanity.,Kind,Positive,Facebook,USA,2023-03-03 11:30:00,45,22,0.0,Neutral,0.7906,Positive,Positive
+Pride in accomplishing personal and professional goals.,Pride,Positive,Instagram,Canada,2023-03-03 14:30:00,25,12,0.05,Positive,0.34,Positive,Positive
+Shame for not being true to my values in a difficult situation.,Shame,Negative,Twitter,UK,2023-03-03 12:00:00,30,15,-0.075,Negative,-0.6407,Negative,Negative
+"Revisiting old memories, feeling a sense of elation.",Elation,Positive,Twitter,Canada,2010-05-15 15:30:00,40,20,0.1,Positive,0.4588,Positive,Positive
+The victory of our team brought euphoria to the city.,Euphoria,Positive,Instagram,USA,2021-08-10 21:15:00,30,15,0.0,Neutral,0.6486,Positive,Positive
+"Embracing the beauty of nature, a moment of contentment.",Contentment,Positive,Facebook,India,2011-06-20 14:45:00,50,25,0.0,Neutral,0.743,Positive,Positive
+"Meditating by the serene lake, finding inner peace.",Serenity,Positive,Twitter,UK,2022-02-12 18:20:00,35,18,0.0,Neutral,0.7579,Positive,Positive
+Overflowing with gratitude for life's blessings.,Gratitude,Positive,Instagram,Australia,2012-11-25 10:00:00,60,30,0.0,Neutral,0.7783,Positive,Positive
+"Hopeful for a brighter tomorrow, despite challenges.",Hope,Positive,Facebook,USA,2013-04-05 19:30:00,45,22,0.0,Neutral,0.6886,Positive,Positive
+Empowered to make a difference in my community.,Empowerment,Positive,Twitter,UK,2014-09-14 08:30:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+Compassion in action: supporting a local charity event.,Compassion,Positive,Instagram,Canada,2015-07-18 14:20:00,35,18,0.1167,Positive,0.8271,Positive,Positive
+"A moment of tenderness, connecting with loved ones.",Tenderness,Positive,Facebook,UK,2016-02-23 19:45:00,50,25,0.7,Positive,0.7717,Positive,Positive
+Arousal of excitement as I await a special announcement.,Arousal,Neutral,Twitter,Australia,2017-10-30 11:30:00,40,20,0.3571,Positive,0.743,Positive,Positive
+Enthusiastically diving into a new project.,Enthusiasm,Positive,Instagram,USA,2018-06-15 16:00:00,30,15,0.1364,Positive,0.5994,Positive,Positive
+Feeling a sense of fulfillment after reaching a milestone.,Fulfillment,Positive,Facebook,India,2019-03-28 18:20:00,45,22,0.0,Neutral,0.3182,Positive,Positive
+Reverence for the beauty of a historic landmark.,Reverence,Positive,Twitter,UK,2019-11-11 15:00:00,35,18,0.0,Neutral,0.6249,Positive,Positive
+Elation after a surprise reunion with old friends.,Elation,Positive,Instagram,Canada,2020-04-02 09:30:00,50,25,0.1,Positive,0.7717,Positive,Positive
+The euphoria of a live music concert under the stars.,Euphoria,Positive,Facebook,USA,2021-06-19 14:45:00,30,15,0.1364,Positive,0.6486,Positive,Positive
+Contentment in the simplicity of a quiet Sunday.,Contentment,Positive,Twitter,Australia,2010-08-15 10:00:00,60,30,0.0,Neutral,0.3612,Positive,Positive
+Serenity found in the pages of a favorite book.,Serenity,Positive,Instagram,UK,2011-09-22 19:30:00,45,22,0.5,Positive,0.4588,Positive,Positive
+Gratitude for the support received during tough times.,Gratitude,Positive,Facebook,India,2012-03-10 08:30:00,30,15,-0.3889,Negative,0.6705,Positive,Positive
+Hopeful about the possibilities of a new journey.,Hope,Positive,Twitter,Canada,2013-12-05 16:00:00,35,18,0.1364,Positive,0.5106,Positive,Positive
+Empowerment through learning and personal growth.,Empowerment,Positive,Instagram,USA,2014-07-20 11:30:00,50,25,0.0,Neutral,0.3818,Positive,Positive
+Compassion towards those in need during the holidays.,Compassion,Positive,Facebook,USA,2015-12-22 14:20:00,35,18,0.0,Neutral,0.6808,Positive,Positive
+Tenderness in the warmth of a cozy winter evening.,Tenderness,Positive,Twitter,UK,2016-02-10 19:45:00,50,25,-0.2,Negative,0.7003,Positive,Positive
+Arousal of excitement for an upcoming adventure.,Arousal,Neutral,Instagram,Australia,2017-04-30 11:30:00,40,20,0.0,Neutral,0.6705,Positive,Positive
+Enthusiasm for a creative project in the making.,Enthusiasm,Positive,Facebook,Canada,2018-09-15 16:00:00,30,15,0.5,Positive,0.7003,Positive,Positive
+Fulfillment in completing a challenging workout routine.,Fulfillment,Positive,Twitter,India,2019-06-28 18:20:00,45,22,0.5,Positive,0.1531,Positive,Positive
+Reverence for the artistry displayed in a museum.,Reverence,Positive,Instagram,UK,2020-11-11 15:00:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Elation after achieving a personal goal.,Elation,Positive,Facebook,USA,2021-03-02 09:30:00,50,25,0.0,Neutral,0.3612,Positive,Positive
+Elation over discovering a hidden gem in the city.,Elation,Positive,Twitter,USA,2012-02-18 14:30:00,40,20,-0.1667,Negative,0.3612,Positive,Positive
+The euphoria of a surprise birthday celebration.,Euphoria,Positive,Instagram,UK,2018-11-05 21:45:00,30,15,0.0,Neutral,0.7506,Positive,Positive
+Contentment in the simplicity of a home-cooked meal.,Contentment,Positive,Facebook,India,2015-09-12 13:20:00,50,25,0.0,Neutral,0.3612,Positive,Positive
+Serenity found in the melody of a peaceful piano.,Serenity,Positive,Twitter,Canada,2016-07-30 18:10:00,35,18,0.25,Positive,0.4939,Positive,Positive
+Gratitude for the supportive community around me.,Gratitude,Positive,Instagram,USA,2013-04-20 10:30:00,60,30,0.5,Positive,0.6705,Positive,Positive
+Hopeful about the prospects of a new business venture.,Hope,Positive,Facebook,Canada,2017-12-08 19:15:00,45,22,0.1364,Positive,0.6705,Positive,Positive
+Empowerment through mentoring and guiding others.,Empowerment,Positive,Twitter,UK,2014-06-03 08:20:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+Compassion shown through acts of kindness in the community.,Compassion,Positive,Instagram,Australia,2019-01-15 14:50:00,35,18,0.0,Neutral,0.7184,Positive,Positive
+Tenderness in a heartfelt message to a loved one.,Tenderness,Positive,Facebook,UK,2016-12-25 19:30:00,50,25,0.35,Positive,0.8807,Positive,Positive
+Arousal of excitement before a much-awaited trip.,Arousal,Neutral,Twitter,India,2018-03-10 09:45:00,40,20,0.2,Positive,0.4939,Positive,Positive
+Enthusiasm for a new artistic project in the works.,Enthusiasm,Positive,Instagram,USA,2020-09-17 16:30:00,30,15,0.2348,Positive,0.4404,Positive,Positive
+Feeling a sense of fulfillment after helping others.,Fulfillment,Positive,Facebook,Canada,2011-08-28 18:45:00,45,22,0.0,Neutral,0.4019,Positive,Positive
+Reverence for the historical significance of a landmark.,Reverence,Positive,Twitter,Australia,2017-11-01 15:30:00,35,18,0.0,Neutral,0.34,Positive,Positive
+Elation after achieving a fitness milestone.,Elation,Positive,Instagram,UK,2019-06-15 10:00:00,50,25,0.0,Neutral,0.5574,Positive,Positive
+The euphoria of a successful product launch.,Euphoria,Positive,Facebook,USA,2022-04-03 11:45:00,30,15,0.75,Positive,0.8442,Positive,Positive
+Contentment in the embrace of a loved one.,Contentment,Positive,Twitter,India,2010-11-12 20:20:00,60,30,0.7,Positive,0.8271,Positive,Positive
+Serenity found in the beauty of a sunset by the sea.,Serenity,Positive,Instagram,Canada,2011-07-22 18:30:00,45,22,0.0,Neutral,0.5859,Positive,Positive
+Gratitude for the small joys that each day brings.,Gratitude,Positive,Facebook,Australia,2012-03-30 11:20:00,30,15,-0.25,Negative,0.7579,Positive,Positive
+Hopeful about the potential for personal growth.,Hope,Positive,Twitter,UK,2013-10-05 16:40:00,35,18,0.0,Neutral,0.7096,Positive,Positive
+Empowerment through learning a new skill.,Empowerment,Positive,Instagram,India,2014-07-10 13:15:00,50,25,0.1364,Positive,0.0,Neutral,Neutral
+Compassion in volunteering for a local charity.,Compassion,Positive,Facebook,USA,2015-12-18 14:20:00,35,18,0.0,Neutral,0.7003,Positive,Positive
+Tenderness in a quiet moment shared with a pet.,Tenderness,Positive,Twitter,Canada,2016-02-10 19:45:00,50,25,0.0,Neutral,0.6369,Positive,Positive
+Arousal of excitement for an upcoming festival.,Arousal,Neutral,Instagram,UK,2017-09-25 11:30:00,40,20,0.0,Neutral,0.7506,Positive,Positive
+Enthusiasm for a DIY home improvement project.,Enthusiasm,Positive,Facebook,Australia,2018-04-15 16:00:00,30,15,0.0,Neutral,0.7096,Positive,Positive
+Fulfillment in completing a challenging puzzle.,Fulfillment,Positive,Twitter,India,2019-11-28 18:20:00,45,22,0.5,Positive,0.1531,Positive,Positive
+Reverence for the wonders of nature on a hiking trail.,Reverence,Positive,Instagram,USA,2020-05-11 15:00:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Elation after a surprise reunion with a childhood friend.,Elation,Positive,Facebook,Canada,2021-02-05 09:30:00,50,25,0.0,Neutral,0.7783,Positive,Positive
+Suffering from despair after another setback.,Despair,Negative,Twitter,USA,2021-03-10 08:30:00,10,5,0.0,Neutral,-0.6597,Negative,Negative
+"Overwhelmed by grief, missing a loved one dearly.",Grief,Negative,Instagram,Canada,2022-07-05 15:45:00,15,8,-0.1,Negative,0.3612,Positive,Positive
+Loneliness creeps in as the night grows colder.,Loneliness,Negative,Facebook,UK,2019-11-18 21:20:00,20,10,0.0,Neutral,-0.4215,Negative,Negative
+Jealousy consumes me as I witness others' success.,Jealousy,Negative,Twitter,India,2020-08-12 11:30:00,25,12,0.3,Positive,0.34,Positive,Positive
+Resentment building up over past betrayals.,Resentment,Negative,Instagram,Australia,2018-05-22 14:45:00,15,7,-0.25,Negative,-0.4404,Negative,Negative
+Frustration mounts as obstacles block my path.,Frustration,Negative,Facebook,USA,2017-01-30 16:10:00,20,10,-0.05,Negative,-0.8225,Negative,Negative
+"Boredom sets in, the day feels endlessly dull.",Boredom,Negative,Twitter,Canada,2016-09-28 19:45:00,15,8,-0.2917,Negative,-0.6124,Negative,Negative
+"Anxiety grips my heart, worry clouds my thoughts.",Anxiety,Negative,Instagram,UK,2019-04-15 09:00:00,25,12,0.0,Neutral,-0.5574,Negative,Negative
+Intimidation by the unknown future ahead.,Intimidation,Negative,Facebook,India,2021-12-03 18:30:00,30,15,-0.05,Negative,-0.4215,Negative,Negative
+Helplessness sinks in as challenges pile up.,Helplessness,Negative,Twitter,Australia,2020-06-20 14:20:00,15,8,-0.1,Negative,-0.4215,Negative,Negative
+Envy eats away at me as I see others' prosperity.,Envy,Negative,Instagram,Canada,2018-11-07 11:30:00,20,10,0.0,Neutral,-0.2732,Negative,Negative
+Regret over missed opportunities haunts my thoughts.,Regret,Negative,Facebook,UK,2017-08-25 16:00:00,25,12,0.0,Neutral,-0.5267,Negative,Negative
+Disgust at the sight of injustice and cruelty.,Disgust,Negative,Twitter,India,2019-02-11 09:45:00,15,7,0.0,Neutral,-0.91,Negative,Negative
+"Drowning in despair, hope slipping through my fingers.",Despair,Negative,Instagram,USA,2016-04-02 20:20:00,20,10,-0.1,Negative,0.1531,Positive,Positive
+"Grief weighs heavy, tears a constant companion.",Grief,Negative,Facebook,Canada,2015-10-18 15:30:00,25,12,-0.3333,Negative,-0.6249,Negative,Negative
+"Loneliness in a crowded room, a silent cry for connection.",Loneliness,Negative,Twitter,UK,2019-07-12 18:10:00,30,15,0.0,Neutral,-0.7096,Negative,Negative
+"Jealousy gnaws at my confidence, a toxic emotion.",Jealousy,Negative,Instagram,India,2018-06-03 16:30:00,15,8,0.0,Neutral,0.25,Positive,Positive
+"Resentment festers, poisoning relationships.",Resentment,Negative,Facebook,Australia,2022-01-15 12:00:00,20,10,0.0,Neutral,-0.7717,Negative,Negative
+"Frustration boils over, a volcanic eruption of emotions.",Frustration,Negative,Twitter,USA,2017-04-10 14:45:00,25,12,0.0,Neutral,-0.4767,Negative,Negative
+"Boredom settles like dust, life feels mundane.",Boredom,Negative,Instagram,Canada,2016-11-28 19:00:00,15,7,-0.1667,Negative,0.0516,Positive,Positive
+"Anxiety grips my chest, a relentless grip on my thoughts.",Anxiety,Negative,Facebook,UK,2018-09-05 09:30:00,20,10,0.0,Neutral,-0.128,Negative,Negative
+"Intimidation by the challenges ahead, fear takes hold.",Intimidation,Negative,Twitter,India,2021-10-22 18:30:00,30,15,0.0,Neutral,-0.6908,Negative,Negative
+"Helplessness engulfs me, drowning in a sea of problems.",Helplessness,Negative,Instagram,Australia,2019-05-08 14:20:00,15,8,0.0,Neutral,-0.7003,Negative,Negative
+"Envy poisons my thoughts, coveting others' success.",Envy,Negative,Facebook,Canada,2017-03-20 11:30:00,20,10,0.3,Positive,-0.2732,Negative,Negative
+Regret for decisions that led to a painful present.,Regret,Negative,Twitter,USA,2018-12-15 16:00:00,25,12,-0.35,Negative,-0.6908,Negative,Negative
+Disgust at the corruption that stains society.,Disgust,Negative,Instagram,UK,2016-07-01 09:45:00,15,7,0.0,Neutral,-0.5994,Negative,Negative
+"Sinking in despair, each day darker than the last.",Despair,Negative,Facebook,India,2020-08-20 20:20:00,20,10,0.0,Neutral,-0.3182,Negative,Negative
+"Grief overwhelms, a storm of emotions within.",Grief,Negative,Twitter,Canada,2021-02-25 15:30:00,25,12,-0.8,Negative,-0.6124,Negative,Negative
+"Loneliness echoes in empty spaces, yearning for connection.",Loneliness,Negative,Instagram,Australia,2019-09-12 18:10:00,30,15,-0.1,Negative,-0.4767,Negative,Negative
+"Jealousy poisons my thoughts, resentment brewing within.",Jealousy,Negative,Facebook,USA,2018-08-05 16:30:00,15,8,0.0,Neutral,-0.836,Negative,Negative
+"Resentment festers, a wound that refuses to heal.",Resentment,Negative,Twitter,India,2017-01-12 12:00:00,20,10,0.0,Neutral,-0.4404,Negative,Negative
+"Frustration escalates, a thunderstorm of emotions.",Frustration,Negative,Instagram,UK,2022-04-05 14:45:00,25,12,0.0,Neutral,-0.4767,Negative,Negative
+"Boredom lingers, a stagnant pool of indifference.",Boredom,Negative,Facebook,Canada,2021-10-02 19:00:00,15,7,0.0,Neutral,-0.3612,Negative,Negative
+"Embarking on a journey of discovery, fueled by curiosity and a thirst for knowledge.",Curiosity,Neutral,Twitter,USA,2023-04-15 10:15:00,30,15,0.0,Neutral,0.0,Neutral,Neutral
+"Lost in the vast sea of information, an indifferent wave in the digital ocean.",Indifference,Neutral,Instagram,Canada,2022-11-28 17:30:00,15,7,0.0,Neutral,-0.4767,Negative,Negative
+"The complex puzzle of life leaves me in a state of perpetual confusion, seeking answers in the chaos.",Confusion,Negative,Facebook,UK,2020-04-02 09:45:00,20,10,-0.3,Negative,-0.7096,Negative,Negative
+"A numbness settles over me, a shield against the overwhelming emotions life throws my way.",Numbness,Negative,Twitter,India,2021-08-10 14:00:00,15,8,0.5,Positive,-0.2732,Negative,Negative
+"Gazing at the sunset, a melancholic longing for moments that slip through the fingers of time.",Melancholy,Negative,Instagram,Australia,2019-06-18 20:45:00,25,12,0.0,Neutral,-0.1027,Negative,Negative
+"Revisiting old photographs, caught in the embrace of nostalgia's bittersweet symphony.",Nostalgia,Neutral,Facebook,USA,2018-02-05 15:15:00,20,10,0.1,Positive,0.25,Positive,Positive
+"Torn between conflicting emotions, an ambivalence that paints my decisions in shades of uncertainty.",Ambivalence,Neutral,Twitter,Canada,2022-05-30 11:30:00,25,12,0.0,Neutral,-0.7269,Negative,Negative
+"Embracing the ebb and flow of life, finding acceptance in the dance of existence.",Acceptance,Neutral,Instagram,UK,2023-01-10 16:20:00,30,15,0.0,Neutral,0.4588,Positive,Positive
+"Facing challenges head-on, a determination that fuels the fire within to achieve the impossible.",Determination,Positive,Facebook,India,2020-09-18 13:45:00,20,10,-0.6667,Negative,0.1531,Positive,Positive
+"Serenity found in the stillness of nature, a tranquil retreat from the chaos of the modern world.",Serenity,Positive,Twitter,Australia,2021-07-03 19:00:00,25,12,0.2,Positive,-0.4019,Negative,Negative
+"Curiosity leading me down the rabbit hole of knowledge, a perpetual student in life's classroom.",Curiosity,Neutral,Instagram,USA,2022-10-08 08:15:00,40,20,-0.1556,Negative,0.0,Neutral,Neutral
+"Floating through the day with an air of indifference, detached from the mundane happenings around.",Indifference,Neutral,Facebook,Canada,2023-03-22 16:30:00,20,10,-0.1667,Negative,-0.1779,Negative,Negative
+"Entangled in the web of thoughts, confusion reigning as I navigate the labyrinth of ideas.",Confusion,Negative,Twitter,UK,2021-05-15 11:45:00,30,15,0.0,Neutral,-0.296,Negative,Negative
+"Numb to the chaos, emotions locked away, a stoic facade concealing the inner turmoil.",Numbness,Negative,Instagram,Australia,2019-12-28 14:30:00,15,8,-0.3,Negative,-0.8225,Negative,Negative
+"Melancholy whispers in the breeze, a silent conversation with the echoes of forgotten dreams.",Melancholy,Negative,Facebook,India,2020-03-01 19:00:00,25,12,0.0,Neutral,-0.2732,Negative,Negative
+"Stumbling upon an old journal, nostalgia flooding in waves, carrying me to moments long gone.",Nostalgia,Neutral,Twitter,Canada,2018-07-10 15:45:00,20,10,0.025,Neutral,0.0,Neutral,Neutral
+"A tapestry of conflicting feelings, weaving through uncertainty, caught in the threads of ambivalence.",Ambivalence,Neutral,Instagram,UK,2022-01-05 10:30:00,25,12,0.0,Neutral,-0.6249,Negative,Negative
+"Embracing the flaws, finding acceptance in imperfection, a journey towards self-love.",Acceptance,Neutral,Facebook,Australia,2021-08-20 16:20:00,30,15,0.5,Positive,0.4588,Positive,Positive
+"Determination burning like a wildfire, overcoming obstacles, turning dreams into reality.",Determination,Positive,Twitter,USA,2019-11-03 13:45:00,35,18,-0.05,Negative,0.6486,Positive,Positive
+"Tranquil moments by the ocean, serenity washing over, a peaceful retreat within the waves' embrace.",Serenity,Positive,Instagram,Canada,2020-04-12 19:30:00,50,25,0.25,Positive,0.7579,Positive,Positive
+"Exploring new horizons with the spark of curiosity, an adventurer in the vast landscape of knowledge.",Curiosity,Neutral,Facebook,India,2022-04-15 08:45:00,45,22,0.0682,Positive,0.4767,Positive,Positive
+"Drifting through the day with a nonchalant demeanor, embracing the art of indifference.",Indifference,Neutral,Twitter,UK,2023-02-10 17:00:00,18,9,0.0,Neutral,-0.0516,Negative,Negative
+"Wrestling with thoughts, a perplexed mind lost in the labyrinth of life's complexities.",Confusion,Negative,Instagram,Australia,2020-08-05 12:15:00,28,14,0.4,Positive,-0.5574,Negative,Negative
+"Immersed in a state of emotional numbness, a shield against the storm of daily struggles.",Numbness,Negative,Facebook,USA,2021-12-01 15:30:00,20,10,0.0,Neutral,-0.4588,Negative,Negative
+"A melancholic symphony playing in the background, the soundtrack of a wistful heart.",Melancholy,Negative,Twitter,Canada,2019-03-25 21:00:00,26,13,0.0,Neutral,0.128,Positive,Positive
+"Flipping through the pages of an old yearbook, nostalgia painting smiles and tears on my face.",Nostalgia,Neutral,Instagram,India,2017-06-18 14:45:00,25,12,0.1,Positive,0.296,Positive,Positive
+"Torn between opposing emotions, an ambivalence that colors my decisions with shades of uncertainty.",Ambivalence,Neutral,Facebook,Australia,2022-07-08 11:30:00,30,15,0.0,Neutral,-0.5267,Negative,Negative
+"Embracing life's imperfections, finding acceptance in the journey, scars and all.",Acceptance,Neutral,Twitter,Canada,2023-05-15 16:20:00,36,18,0.0,Neutral,0.4588,Positive,Positive
+"A fiery determination burning within, fueled by the vision of reaching unparalleled heights.",Determination,Positive,Instagram,UK,2021-09-10 14:45:00,40,20,0.0,Neutral,0.4767,Positive,Positive
+"Basking in the serenity of a quiet forest, where the whispers of nature bring peace to the soul.",Serenity,Positive,Facebook,USA,2020-02-28 18:30:00,50,25,0.0,Neutral,0.5423,Positive,Positive
+"Indifferent to the noise of the world, a silent observer in the midst of life's cacophony.",Indifference,Neutral,Instagram,India,2023-03-10 16:30:00,18,9,0.0,Neutral,-0.2023,Negative,Negative
+"Navigating through the labyrinth of thoughts, confusion a constant companion in the maze of ideas.",Confusion,Negative,Facebook,Australia,2021-05-02 11:45:00,28,14,0.0,Neutral,-0.296,Negative,Negative
+"An impenetrable numbness shields me from the emotional storms, a fortress of stoic resilience.",Numbness,Negative,Twitter,UK,2019-10-18 14:30:00,22,11,0.0,Neutral,-0.128,Negative,Negative
+"Melancholy painting the world in hues of nostalgia, a canvas of bittersweet memories.",Melancholy,Negative,Instagram,USA,2020-01-05 20:00:00,26,13,0.0,Neutral,-0.4939,Negative,Negative
+"A journey into the past, flipping through the pages of an old diary, nostalgia taking the lead.",Nostalgia,Neutral,Facebook,Canada,2018-08-10 15:45:00,25,12,-0.075,Negative,0.0,Neutral,Neutral
+"Ambivalence clouding decisions, caught in the crossroads of conflicting emotions.",Ambivalence,Neutral,Twitter,India,2022-01-15 10:30:00,30,15,0.0,Neutral,-0.4019,Negative,Negative
+"Embracing imperfections, finding acceptance in the mosaic of life's beautiful chaos.",Acceptance,Neutral,Instagram,Australia,2021-07-20 16:20:00,36,18,0.85,Positive,0.4939,Positive,Positive
+"Determination as the driving force, propelling me forward on the path to extraordinary achievements.",Determination,Positive,Facebook,USA,2019-12-03 13:45:00,40,20,0.3333,Positive,0.4019,Positive,Positive
+"Seeking serenity in the melody of raindrops, a tranquil escape from the noise of everyday life.",Serenity,Positive,Twitter,Canada,2020-04-12 19:30:00,50,25,-0.2,Negative,0.2263,Positive,Positive
+"Curiosity driving the exploration of the unknown, a seeker of knowledge in uncharted territories.",Curiosity,Neutral,Instagram,UK,2022-05-08 08:45:00,45,22,-0.1,Negative,0.2263,Positive,Positive
+"Drifting through the day with an air of nonchalance, indifferent to the trivialities of life.",Indifference,Neutral,Facebook,India,2023-02-22 17:00:00,18,9,0.0,Neutral,-0.4215,Negative,Negative
+"Lost in the labyrinth of thoughts, confusion casting shadows on the quest for clarity.",Confusion,Negative,Twitter,Australia,2020-06-05 12:15:00,28,14,0.0,Neutral,-0.2023,Negative,Negative
+"Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence.",Numbness,Negative,Instagram,Canada,2021-11-30 15:30:00,20,10,0.0,Neutral,-0.128,Negative,Negative
+"Melancholy as a companion, painting the canvas of life with the brushstrokes of wistful yearning.",Melancholy,Negative,Facebook,UK,2019-02-25 21:00:00,26,13,0.0,Neutral,-0.34,Negative,Negative
+"Leafing through the pages of an old photo album, nostalgia weaving tales of laughter and tears.",Nostalgia,Neutral,Twitter,USA,2017-05-18 14:45:00,25,12,0.1,Positive,0.3182,Positive,Positive
+"Ambivalence in the air, caught between the crossroads of conflicting emotions and decisions.",Ambivalence,Neutral,Instagram,Canada,2022-08-05 11:30:00,30,15,0.0,Neutral,-0.4019,Negative,Negative
+"Embracing the beauty in imperfections, finding acceptance in the mosaic of life's unpredictable art.",Acceptance,Neutral,Facebook,Australia,2023-06-15 16:20:00,36,18,-0.1667,Negative,0.7783,Positive,Positive
+"Determination ablaze, forging a path through challenges, sculpting dreams into tangible realities.",Determination,Positive,Twitter,UK,2021-10-10 14:45:00,40,20,0.0,Neutral,0.6908,Positive,Positive
+"Immerse in the serenity of a moonlit night, where the quiet whispers of nature bring peace to the soul.",Serenity,Positive,Instagram,USA,2020-05-12 19:30:00,50,25,0.0,Neutral,0.5423,Positive,Positive
+"Fueled by curiosity, venturing into uncharted realms, a fearless explorer of the mysteries of the world.",Curiosity,Neutral,Facebook,India,2022-12-01 09:15:00,44,22,0.0,Neutral,0.4404,Positive,Positive
+"Dancing through life with the exuberance of a carefree spirit, embracing joy and zest at every turn.",Zest,Positive,Twitter,USA,2018-07-12 17:45:00,30,15,0.8,Positive,0.802,Positive,Positive
+"Basking in the golden glow of contentment, a serene river flowing through the landscape of the heart.",Contentment,Positive,Facebook,Australia,2020-09-05 20:10:00,36,18,0.3,Positive,0.6705,Positive,Positive
+"Gazing towards the horizon with hopeful eyes, painting a canvas of dreams illuminated by the sun of optimism.",Hopeful,Positive,Instagram,India,2022-04-18 08:00:00,24,12,0.0,Neutral,0.8591,Positive,Positive
+"Standing tall, proud as an oak, the branches of achievement reaching towards the sky of accomplishment.",Proud,Positive,Twitter,Canada,2019-12-10 12:20:00,50,25,0.8,Positive,0.5994,Positive,Positive
+"A heart overflowing with gratitude, a garden where appreciation blooms in the soil of kindness and connection.",Grateful,Positive,Facebook,USA,2023-02-28 09:45:00,40,20,0.0,Neutral,0.8625,Positive,Positive
+"Extending a hand, empathetic threads weaving a tapestry of understanding, embracing the joys and sorrows of others.",Empathetic,Positive,Instagram,UK,2018-04-03 14:15:00,30,15,0.0,Neutral,0.7579,Positive,Positive
+"Compassionate clouds, heavy with care, showering empathy on the parched grounds of human suffering.",Compassionate,Positive,Twitter,Australia,2022-06-20 10:30:00,36,18,-0.1,Negative,0.5106,Positive,Positive
+"Playfully dancing in the rain of laughter, a whimsical spirit twirling in the puddles of joy and lightheartedness.",Playful,Positive,Facebook,Canada,2020-07-08 18:00:00,44,22,0.15,Positive,0.891,Positive,Positive
+"Soaring on the wings of a free spirit, unburdened by the chains of conformity, painting the sky with independence.",Free-spirited,Positive,Instagram,India,2021-08-15 11:10:00,40,20,0.4,Positive,0.6124,Positive,Positive
+"Bathed in the glow of inspiration, a creative phoenix rising from the ashes of ordinary thoughts to explore new realms.",Inspired,Positive,Twitter,UK,2019-10-25 16:50:00,30,15,0.1288,Positive,0.743,Positive,Positive
+"Navigating the sea of hope, sailing towards the sunrise of possibilities, confident in the ship of positive anticipation.",Hopeful,Positive,Facebook,USA,2023-10-05 07:30:00,24,12,0.3636,Positive,0.8779,Positive,Positive
+"Striding with confidence, footprints of self-assuredness imprinted on the sands of challenges conquered and victories claimed.",Confident,Positive,Instagram,Australia,2022-02-15 13:15:00,50,25,0.0,Neutral,0.5574,Positive,Positive
+"Lost in the symphony of the night, a moonlit serenade that whispers tales of wanderlust and moonlit dreams.",Serenity,Positive,Twitter,Canada,2021-05-08 22:00:00,26,13,0.0,Neutral,0.1027,Positive,Positive
+"Unveiling the layers of curiosity, a labyrinth of questions leading to the treasure troves of undiscovered knowledge.",Curiosity,Neutral,Instagram,USA,2020-11-29 14:45:00,34,17,0.0,Neutral,0.296,Positive,Positive
+"In the embrace of the autumn breeze, leaves of ambivalence dancing in a waltz between choices and uncertainties.",Ambivalence,Neutral,Facebook,UK,2019-09-14 10:20:00,28,14,0.0,Neutral,-0.0258,Neutral,Neutral
+"Gratitude as a guiding star, navigating the constellation of blessings in the vast universe of life's precious moments.",Grateful,Positive,Twitter,Australia,2022-03-12 19:55:00,38,19,0.25,Positive,0.8885,Positive,Positive
+"With a zestful heart, sprinting through fields of enthusiasm, chasing sunbeams and laughter in the meadows of joy.",Zest,Positive,Instagram,India,2023-03-30 16:30:00,32,16,0.8,Positive,0.872,Positive,Positive
+"A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections.",Compassionate,Positive,Facebook,Canada,2021-07-01 12:10:00,42,21,0.1,Positive,0.8658,Positive,Positive
+"Proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success.",Proud,Positive,Twitter,USA,2020-01-05 08:45:00,46,23,0.55,Positive,0.8225,Positive,Positive
+"Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow.",Hopeful,Positive,Instagram,UK,2022-07-17 06:15:00,28,14,0.0,Neutral,0.8555,Positive,Positive
+"A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere.",Playful,Positive,Facebook,Australia,2018-08-22 17:20:00,48,24,0.0,Neutral,0.9169,Positive,Positive
+"Floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams.",Inspired,Positive,Twitter,India,2021-12-08 14:30:00,36,18,0.0,Neutral,0.9325,Positive,Positive
+"Navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance.",Contentment,Positive,Instagram,Canada,2019-04-27 09:50:00,40,20,0.0,Neutral,0.9042,Positive,Positive
+"With empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care.",Empathetic,Positive,Facebook,USA,2023-09-03 21:40:00,32,16,-0.15,Negative,0.4215,Positive,Positive
+"A free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities.",Free-spirited,Positive,Twitter,UK,2020-06-10 10:05:00,44,22,0.1,Positive,0.7717,Positive,Positive
+"Bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart.",Grateful,Positive,Instagram,Australia,2022-04-01 18:30:00,38,19,0.45,Positive,0.8126,Positive,Positive
+"Confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace.",Confident,Positive,Facebook,Canada,2021-01-15 13:00:00,46,23,0.5,Positive,0.743,Positive,Positive
+"Hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities.",Hopeful,Positive,Twitter,India,2023-05-06 07:20:00,30,15,0.0,Neutral,0.9001,Positive,Positive
+"Playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air.",Playful,Positive,Instagram,USA,2019-11-18 15:15:00,50,25,0.8,Positive,0.8625,Positive,Positive
+"Whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination.",Inspired,Positive,Facebook,UK,2020-08-29 20:45:00,28,14,0.0,Neutral,0.5267,Positive,Positive
+"Charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored.",Hopeful,Positive,Twitter,Australia,2022-10-30 11:40:00,34,17,0.0,Neutral,0.7506,Positive,Positive
+"Drowning in the abyss of despair, a heart shattered into fragments, lost in the echoing silence of hopelessness.",Despair,Negative,Instagram,Canada,2021-09-15 16:00:00,16,8,0.0,Neutral,-0.8957,Negative,Negative
+"Bitterness festering like a venomous vine, entwining the soul in a web of resentment, poisoning the garden of peace.",Bitterness,Negative,Facebook,UK,2019-03-08 14:20:00,24,12,0.0,Neutral,-0.5267,Negative,Negative
+"Wandering through the desert of loneliness, each step a heavy sigh, mirages of connection shimmering but never materializing.",Loneliness,Negative,Twitter,USA,2017-07-20 11:45:00,30,15,-0.2,Negative,-0.2144,Negative,Negative
+"Yearning for a touch that's not there, echoes of a distant warmth haunting the heart in the cold embrace of solitude.",Yearning,Neutral,Instagram,Australia,2020-11-02 19:30:00,20,10,-0.35,Negative,0.5719,Positive,Positive
+"Eyes wide open in the night, fearful shadows dancing on the walls, the mind a prisoner of imagined horrors.",Fearful,Negative,Facebook,India,2022-05-12 02:00:00,36,18,-0.3333,Negative,-0.886,Negative,Negative
+"Apprehensive steps on the tightrope of uncertainty, a balancing act where the fall seems inevitable, anxiety a constant companion.",Apprehensive,Negative,Twitter,UK,2023-04-08 13:15:00,28,14,0.0,Neutral,-0.4767,Negative,Negative
+"Overwhelmed by the weight of the world, Atlas with trembling shoulders, each responsibility a boulder in the landscape of exhaustion.",Overwhelmed,Negative,Instagram,Canada,2021-06-25 17:50:00,44,22,0.0,Neutral,-0.5859,Negative,Negative
+"Jealousy, a green-eyed monster, lurking in the shadows, casting a dark cloud over the sunshine of others' success.",Jealous,Negative,Facebook,USA,2019-08-30 10:10:00,32,16,-0.0167,Neutral,0.6249,Positive,Positive
+"Devastated by the storm of betrayal, the wreckage of trust scattered like debris, a heart torn by the winds of broken promises.",Devastated,Negative,Twitter,Australia,2022-08-03 15:30:00,50,25,-0.4,Negative,-0.6705,Negative,Negative
+"Frustrated fingers tapping on the keyboard, a symphony of annoyance composing an unsolvable puzzle of unmet expectations.",Frustrated,Negative,Instagram,India,2020-12-17 09:20:00,24,12,-0.7,Negative,-0.6908,Negative,Negative
+"Envious eyes fixated on the gilded prize, a heartache fueled by the painful desire for possessions that seem forever out of reach.",Envious,Negative,Facebook,USA,2021-02-28 22:45:00,40,20,-0.7,Negative,0.2732,Positive,Positive
+"Dismissive glances, a fortress built with indifference, walls impenetrable to the pleas of understanding and recognition.",Dismissive,Negative,Twitter,UK,2018-05-10 14:00:00,28,14,0.0,Neutral,-0.0516,Negative,Negative
+"Shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration.",Frustrated,Negative,Instagram,Canada,2022-01-07 11:10:00,30,15,-0.6,Negative,-0.6486,Negative,Negative
+"Loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne.",Loneliness,Negative,Facebook,Australia,2019-09-19 03:30:00,36,18,0.0,Neutral,-0.4215,Negative,Negative
+"Fearful whispers in the dark, the mind haunted by the specter of the unknown, shadows dancing to the rhythm of anxiety's tune.",Fearful,Negative,Twitter,UK,2023-07-14 23:00:00,26,13,-0.3833,Negative,-0.743,Negative,Negative
+"Bitterness, a bitter aftertaste lingering on the tongue, each word a reminder of wounds that refuse to heal with the passing of time.",Bitterness,Negative,Instagram,India,2020-04-05 16:20:00,20,10,-0.1,Negative,-0.7717,Negative,Negative
+"Overwhelmed by the cacophony of expectations, a drowning soul in the tempest of pressure, struggling to stay afloat.",Overwhelmed,Negative,Facebook,USA,2021-11-29 08:45:00,40,20,0.0,Neutral,-0.5859,Negative,Negative
+"Jealousy, a venom that seeps through the veins, poisoning the heart and turning it into a breeding ground for discontent.",Jealous,Negative,Twitter,Australia,2019-12-12 17:00:00,32,16,0.0,Neutral,-0.7269,Negative,Negative
+"Devastated by the revelation of betrayal, the trust shattered like fragile glass, leaving shards of pain in its wake.",Devastated,Negative,Instagram,Canada,2022-05-20 14:50:00,50,25,0.0,Neutral,-0.8555,Negative,Negative
+"Frustrated attempts to mend a broken connection, the threads of understanding slipping through the fingers like grains of sand.",Frustrated,Negative,Facebook,UK,2020-09-03 12:15:00,28,14,-0.4,Negative,-0.6124,Negative,Negative
+"Envious gazes cast upon the podium of success, a bitter pill swallowed, the taste lingering as a constant reminder of unattained heights.",Envious,Negative,Twitter,USA,2021-02-10 19:30:00,40,20,0.0667,Positive,-0.0516,Negative,Negative
+"Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference.",Dismissive,Negative,Instagram,Australia,2018-08-18 14:40:00,24,12,0.0,Neutral,-0.2732,Negative,Negative
+"Despair like a heavy fog, enveloping every thought, blurring the path ahead, a journey in the labyrinth of utter hopelessness.",Despair,Negative,Facebook,Canada,2022-02-28 21:00:00,16,8,-0.1,Negative,-0.5994,Negative,Negative
+"Bitterness, a bitter chill in the air, freezing moments into icicles of resentment that dangle precariously over the landscape of memory.",Bitterness,Negative,Twitter,UK,2019-10-15 10:30:00,30,15,-0.1,Negative,-0.8316,Negative,Negative
+"Loneliness, a solitary moon in a starless sky, casting a cold glow on the landscape of isolation, where echoes bounce in empty spaces.",Loneliness,Negative,Instagram,USA,2017-12-01 18:50:00,36,18,-0.35,Negative,-0.743,Negative,Negative
+"Yearning for the warmth of a vanished sun, a heartache painted in the hues of a sunset that never graced the horizon.",Yearning,Neutral,Facebook,Australia,2020-04-18 16:15:00,20,10,0.0,Neutral,0.428,Positive,Positive
+"Fearful eyes scanning the shadows, a prisoner of the night, terrorized by the lurking monsters born from the mind's darkest corners.",Fearful,Negative,Twitter,India,2023-01-07 03:30:00,36,18,-0.9,Negative,-0.9382,Negative,Negative
+"Apprehensive whispers in the wind, a forecast of uncertainty, the mind's weather vane spinning wildly in the storm of doubt.",Apprehensive,Negative,Instagram,Canada,2021-06-10 10:00:00,28,14,0.1,Positive,-0.5994,Negative,Negative
+"Overwhelmed by the maze of expectations, a minotaur of pressure lurking in the labyrinth, waiting to devour the spirit of resilience.",Overwhelmed,Negative,Facebook,USA,2020-02-22 15:20:00,44,22,0.0,Neutral,-0.2023,Negative,Negative
+"Jealousy, a festering wound, the pain intensifying with each glance at the garden of others' achievements, blooming beyond the fence.",Jealous,Negative,Twitter,UK,2018-03-17 14:45:00,32,16,0.0,Neutral,-0.6808,Negative,Negative
+"Devastated, a heart in ruins, the echoes of shattered dreams reverberating in the chambers, a requiem for what once was whole.",Devastated,Negative,Instagram,Australia,2022-10-28 11:15:00,50,25,0.025,Neutral,-0.8074,Negative,Negative
+"Frustrated attempts to untangle the knot of confusion, the threads of understanding slipping further into the labyrinth of miscommunication.",Frustrated,Negative,Facebook,India,2020-11-01 12:30:00,28,14,-0.2667,Negative,-0.6808,Negative,Negative
+"Envious eyes locked on the treasure chest of opportunities, a heartache fueled by the desire for keys that seem forever elusive.",Envious,Negative,Twitter,USA,2021-01-15 22:10:00,40,20,0.0,Neutral,0.6597,Positive,Positive
+Awe-struck by the breathtaking sunrise over the mountains.,Awe,Positive,Instagram,USA,2022-04-03 06:15:00,55,28,1.0,Positive,0.4588,Positive,Positive
+Navigating through the challenges with determination.,Determination,Positive,Twitter,Canada,2023-10-12 10:30:00,30,15,0.0,Neutral,0.4588,Positive,Positive
+Nostalgia hits while flipping through an old photo album.,Nostalgia,Neutral,Facebook,UK,2019-06-28 19:00:00,45,22,0.1,Positive,0.0,Neutral,Neutral
+Thrilled to witness the grandeur of a cultural festival.,Thrill,Positive,Instagram,India,2020-09-15 14:45:00,80,40,0.35,Positive,0.8591,Positive,Positive
+Calmness found in the rhythm of raindrops on the windowpane.,Calmness,Positive,Twitter,Australia,2017-11-08 21:20:00,35,18,0.0,Neutral,0.4019,Positive,Positive
+Overwhelmed by the support received during a personal challenge.,Overwhelmed,Negative,Facebook,USA,2021-05-20 17:30:00,50,25,0.0,Neutral,0.4939,Positive,Positive
+Excitement builds as the countdown to a long-awaited vacation begins.,Excitement,Positive,Instagram,France,2023-01-10 12:00:00,60,30,-0.05,Negative,0.4939,Positive,Positive
+"Reflecting on life's journey, grateful for the lessons learned.",Gratitude,Positive,Twitter,Brazil,2018-12-05 08:45:00,70,35,0.0,Neutral,0.4588,Positive,Positive
+Bittersweet emotions arise while bidding farewell to a dear friend.,Bittersweet,Neutral,Instagram,Japan,2020-03-15 18:30:00,40,20,0.0,Neutral,0.6705,Positive,Positive
+Curiosity sparked by exploring a mysterious ancient ruin.,Curiosity,Neutral,Facebook,Greece,2016-08-22 15:10:00,35,18,0.0,Neutral,-0.5859,Negative,Negative
+Admiration for the intricate details of a handcrafted masterpiece.,Admiration,Positive,Instagram,USA,2019-08-20 16:00:00,50,25,0.0,Neutral,0.8481,Positive,Positive
+Overjoyed by the warmth of a cozy fireplace on a winter evening.,Overjoyed,Positive,Twitter,Canada,2021-12-08 19:30:00,35,18,-0.2,Negative,0.7717,Positive,Positive
+Inspiration strikes while observing the colors of a vibrant sunset.,Inspiration,Positive,Instagram,UK,2020-06-10 20:45:00,60,30,0.1667,Positive,0.6486,Positive,Positive
+Motivated to achieve fitness goals after an invigorating workout.,Motivation,Positive,Facebook,Australia,2022-02-28 07:15:00,80,40,0.0,Neutral,0.802,Positive,Positive
+Gratitude for the simple joys found in a cup of morning coffee.,Gratitude,Positive,Twitter,India,2017-04-15 08:00:00,45,22,0.0,Neutral,0.7579,Positive,Positive
+Feeling empowered after conquering a challenging hiking trail.,Empowerment,Positive,Instagram,USA,2018-09-05 14:20:00,70,35,0.5,Positive,0.2732,Positive,Positive
+Amused by the antics of playful kittens during playtime.,Amusement,Positive,Facebook,Canada,2022-10-22 12:45:00,30,15,0.0,Neutral,0.6908,Positive,Positive
+Contemplating life's mysteries under the starry night sky.,Contemplation,Neutral,Twitter,UK,2016-07-02 23:30:00,55,28,0.0,Neutral,0.0,Neutral,Neutral
+Joyful reunion with long-lost friends after years of separation.,JoyfulReunion,Positive,Instagram,India,2020-11-18 17:10:00,40,20,-0.05,Negative,0.7906,Positive,Positive
+Excitement builds while preparing for a surprise celebration.,Excitement,Positive,Facebook,Australia,2023-03-05 15:00:00,60,30,0.0,Neutral,0.6486,Positive,Positive
+Satisfaction derived from successfully completing a DIY project.,Satisfaction,Positive,Twitter,USA,2015-12-01 11:30:00,50,25,0.75,Positive,0.7269,Positive,Positive
+Feeling blessed for the supportive community in times of need.,Blessed,Positive,Instagram,UK,2021-09-10 09:45:00,35,18,0.5,Positive,0.765,Positive,Positive
+Captivated by the serenity of a tranquil garden in full bloom.,Serenity,Positive,Facebook,Canada,2018-05-12 14:20:00,45,22,0.35,Positive,0.4215,Positive,Positive
+Anticipation for an upcoming adventure in an exotic destination.,Anticipation,Neutral,Twitter,India,2022-07-25 10:00:00,80,40,0.5,Positive,0.4019,Positive,Positive
+Reflecting on personal growth achieved through life experiences.,Reflection,Neutral,Instagram,USA,2019-03-08 18:30:00,70,35,0.0,Neutral,0.3818,Positive,Positive
+Nostalgic memories flood in while revisiting childhood favorites.,Nostalgia,Neutral,Facebook,Australia,2017-01-28 21:15:00,40,20,-0.5,Negative,0.4215,Positive,Positive
+Appreciation for the vibrant culture experienced during travel.,Appreciation,Positive,Twitter,UK,2016-11-14 13:45:00,55,28,0.4833,Positive,0.7717,Positive,Positive
+Confidence soars after overcoming public speaking anxiety.,Confidence,Positive,Instagram,USA,2020-04-02 17:30:00,30,15,0.0,Neutral,0.3818,Positive,Positive
+Contentment in the midst of a family gathering filled with laughter.,Contentment,Positive,Facebook,Canada,2023-01-15 19:00:00,50,25,0.4,Positive,0.6908,Positive,Positive
+Enthusiasm for learning new skills and expanding knowledge.,Enthusiasm,Positive,Twitter,India,2018-08-07 12:15:00,60,30,0.1364,Positive,0.4404,Positive,Positive
+Surprise and delight at discovering a hidden gem in the city.,Surprise,Neutral,Instagram,UK,2019-10-18 16:45:00,35,18,-0.1667,Negative,0.7184,Positive,Positive
+A sense of accomplishment after completing a challenging workout.,Accomplishment,Positive,Facebook,Australia,2022-06-30 07:00:00,45,22,0.5,Positive,0.1531,Positive,Positive
+Wonderment at the beauty of a double rainbow after the rain.,Wonderment,Positive,Twitter,USA,2017-06-12 18:20:00,70,35,0.0,Neutral,0.5859,Positive,Positive
+Optimism for a bright future amidst challenging times.,Optimism,Positive,Instagram,Canada,2021-07-05 09:30:00,40,20,0.4,Positive,0.7906,Positive,Positive
+Pride in achieving a personal milestone in career progression.,Pride,Positive,Facebook,UK,2016-04-15 14:50:00,55,28,0.0,Neutral,0.34,Positive,Positive
+Happiness blooms like flowers in a garden on a sunny day.,Happiness,Positive,Twitter,India,2020-02-10 11:15:00,30,15,0.7,Positive,0.836,Positive,Positive
+Elation over discovering a rare book in a quaint bookstore.,Elation,Positive,Instagram,USA,2018-09-22 16:30:00,80,40,0.3,Positive,0.3612,Positive,Positive
+Curiosity piqued by the mysteries of an ancient archaeological site.,Curiosity,Neutral,Facebook,Australia,2015-11-08 10:00:00,35,18,0.0,Neutral,0.0258,Neutral,Neutral
+Mesmerized by the cosmic dance of fireflies on a moonlit night.,Enchantment,Positive,Instagram,Brazil,2022-08-10 22:00:00,50,25,0.0,Neutral,0.0,Neutral,Neutral
+Intrigued by the symphony of colors in an abstract art exhibition.,Intrigue,Neutral,Twitter,France,2019-04-05 17:30:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Giggles and joy echo in the air during a children's playdate.,PlayfulJoy,Positive,Facebook,Japan,2020-12-15 15:45:00,45,22,0.8,Positive,0.6808,Positive,Positive
+Enveloped in serenity while practicing mindfulness by the lake.,Mindfulness,Positive,Instagram,Canada,2017-10-20 08:15:00,70,35,0.0,Neutral,0.0,Neutral,Neutral
+Chasing dreams like a kite soaring high in the vast open sky.,DreamChaser,Positive,Twitter,Australia,2021-02-28 13:00:00,60,30,0.0533,Positive,0.6369,Positive,Positive
+Spellbound by the elegance of a ballroom dance under crystal chandeliers.,Elegance,Positive,Facebook,UK,2018-06-12 20:30:00,55,28,0.0,Neutral,0.4767,Positive,Positive
+Whimsical delight in a world of fairy tales and magical creatures.,Whimsy,Positive,Instagram,USA,2016-03-08 14:20:00,40,20,0.0,Neutral,0.6369,Positive,Positive
+Pensive contemplation amid the ancient ruins of a forgotten civilization.,Pensive,Neutral,Twitter,Greece,2023-04-18 17:10:00,35,18,-0.15,Negative,-0.5423,Negative,Negative
+Embracing the thrill of speed on a rollercoaster's exhilarating twists.,Thrill,Positive,Facebook,Germany,2020-07-25 12:45:00,45,22,0.7,Positive,0.6369,Positive,Positive
+Harmony resonates as musicians play a melody of unity and togetherness.,Harmony,Positive,Instagram,Sweden,2019-11-30 19:30:00,70,35,0.0,Neutral,0.6249,Positive,Positive
+A burst of creativity in the quiet solitude of an artist's studio.,Creativity,Positive,Twitter,Italy,2015-09-01 16:00:00,30,15,0.0,Neutral,0.3818,Positive,Positive
+Radiant joy akin to blooming flowers on a sun-kissed spring morning.,Radiance,Positive,Facebook,Netherlands,2022-05-05 10:15:00,50,25,0.8,Positive,0.7845,Positive,Positive
+A sense of wonder at the vastness of the cosmos on a stargazing night.,Wonder,Positive,Instagram,South Africa,2018-07-08 23:00:00,80,40,0.0,Neutral,0.0,Neutral,Neutral
+Rejuvenated by the salty breeze and the sound of waves at the seaside.,Rejuvenation,Positive,Twitter,Spain,2021-09-20 14:30:00,35,18,0.4,Positive,0.0,Neutral,Neutral
+Whispers of inspiration from the rustling leaves in a serene forest.,Inspiration,Positive,Facebook,Portugal,2016-11-15 11:45:00,55,28,0.0,Neutral,0.7506,Positive,Positive
+Savoring the warmth of a cup of cocoa on a chilly winter evening.,Coziness,Positive,Instagram,Switzerland,2020-01-12 18:00:00,60,30,-0.6,Negative,0.4588,Positive,Positive
+Heartfelt gratitude for the laughter shared during a family reunion.,Gratitude,Positive,Facebook,Austria,2017-12-28 19:15:00,45,22,0.0,Neutral,0.9081,Positive,Positive
+"Embarking on a culinary adventure, savoring exotic flavors around the world.",Adventure,Positive,Twitter,Belgium,2019-03-02 20:20:00,70,35,0.25,Positive,0.3182,Positive,Positive
+Euphoria floods in as the final puzzle piece clicks into place.,Euphoria,Positive,Instagram,Denmark,2022-06-08 15:30:00,40,20,0.0,Neutral,0.6486,Positive,Positive
+Awe-inspired by the grandeur of an ancient cathedral's intricate architecture.,Awe,Positive,Facebook,Czech Republic,2018-08-18 14:45:00,35,18,0.0,Neutral,0.6124,Positive,Positive
+Captivated by the ethereal beauty of a field filled with fireflies.,Enchantment,Positive,Instagram,Brazil,2022-08-10 22:00:00,50,25,0.4,Positive,0.7506,Positive,Positive
+Immersed in the enchanting melodies of a street musician's violin.,Melodic,Positive,Twitter,France,2019-04-05 17:30:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Joyful laughter resonates through a lively summer carnival.,FestiveJoy,Positive,Facebook,Japan,2020-12-15 15:45:00,45,22,0.1364,Positive,0.875,Positive,Positive
+Exploring the universe within during a mindful meditation session.,InnerJourney,Neutral,Instagram,Canada,2017-10-20 08:15:00,70,35,0.0,Neutral,0.0,Neutral,Neutral
+Soaring like a free spirit on the winds of a coastal cliff.,Freedom,Positive,Twitter,Australia,2021-02-28 13:00:00,60,30,0.4,Positive,0.7579,Positive,Positive
+Dazzled by the elegance of a masquerade ball's dazzling costumes.,Dazzle,Positive,Facebook,UK,2018-06-12 20:30:00,55,28,0.75,Positive,0.4767,Positive,Positive
+Whimsical delight in a world of whimsical fairy tales.,Whimsy,Positive,Instagram,USA,2016-03-08 14:20:00,40,20,-0.5,Negative,0.6705,Positive,Positive
+Reflective contemplation amid the ruins of a forgotten era.,Reflection,Neutral,Twitter,Greece,2023-04-18 17:10:00,35,18,-0.15,Negative,-0.5859,Negative,Negative
+Riding the adrenaline rush on a rollercoaster's wild twists.,Adrenaline,Positive,Facebook,Germany,2020-07-25 12:45:00,45,22,0.1,Positive,0.0,Neutral,Neutral
+Harmony resonates as musicians play a symphony of unity.,Harmony,Positive,Instagram,Sweden,2019-11-30 19:30:00,70,35,0.0,Neutral,0.6249,Positive,Positive
+A burst of artistic creativity in the quietude of an artist's studio.,ArtisticBurst,Positive,Twitter,Italy,2015-09-01 16:00:00,30,15,0.3333,Positive,0.3818,Positive,Positive
+Radiant joy akin to blossoming flowers on a sunlit spring morning.,Radiance,Positive,Facebook,Netherlands,2022-05-05 10:15:00,50,25,0.8,Positive,0.7845,Positive,Positive
+Awe-inspired by the vastness of the cosmos on a stargazing night.,Wonder,Positive,Instagram,South Africa,2018-07-08 23:00:00,80,40,0.0,Neutral,0.0,Neutral,Neutral
+"Embarking on a culinary odyssey, savoring flavors around the world.",CulinaryOdyssey,Positive,Twitter,Belgium,2019-03-02 20:20:00,70,35,0.0,Neutral,0.0,Neutral,Neutral
+Euphoria floods in as the final puzzle piece fits perfectly.,Euphoria,Positive,Instagram,Denmark,2022-06-08 15:30:00,40,20,0.5,Positive,0.8591,Positive,Positive
+Awe-struck by the grandeur of an ancient cathedral's intricate architecture.,Awe,Positive,Facebook,Czech Republic,2018-08-18 14:45:00,35,18,0.0,Neutral,0.6124,Positive,Positive
+Curiosity awakened by the mysteries of an ancient archaeological site.,Curiosity,Neutral,Instagram,Australia,2015-11-08 10:00:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+Giddy with excitement as the first snowflakes dance from the sky.,Excitement,Positive,Twitter,Canada,2020-12-02 17:30:00,45,22,0.25,Positive,0.3818,Positive,Positive
+Contentment envelops as the aroma of freshly baked bread fills the air.,Contentment,Positive,Instagram,France,2017-06-10 12:15:00,55,28,0.3,Positive,0.3612,Positive,Positive
+Inspired by the resilience of a lone tree standing tall in a storm.,Resilience,Positive,Facebook,USA,2021-04-15 14:20:00,70,35,0.0,Neutral,0.2732,Positive,Positive
+"Lost in the pages of a captivating novel, transported to another world.",Immersion,Neutral,Twitter,UK,2019-09-28 19:45:00,40,20,0.5,Positive,0.0,Neutral,Neutral
+Drenched in nostalgia while flipping through an old family photo album.,Nostalgia,Neutral,Instagram,India,2016-12-05 21:00:00,50,25,0.1,Positive,0.0,Neutral,Neutral
+Spark of inspiration ignites like a shooting star in the night sky.,Spark,Positive,Facebook,Australia,2018-02-10 23:30:00,60,30,0.0,Neutral,0.7783,Positive,Positive
+Imbued with gratitude for the simple pleasure of a warm cup of tea.,Gratitude,Positive,Twitter,Japan,2023-02-15 08:30:00,35,18,0.3,Positive,0.836,Positive,Positive
+Marveling at the kaleidoscope of colors in a vibrant street market.,Marvel,Positive,Instagram,Brazil,2015-08-22 15:00:00,45,22,0.1667,Positive,0.5267,Positive,Positive
+Awash with serenity as the sun sets over a tranquil lakeside retreat.,Serenity,Positive,Facebook,Germany,2020-11-20 18:45:00,55,28,0.0,Neutral,0.25,Positive,Positive
+Drowning in sorrow as memories of lost love resurface.,Heartbreak,Negative,Instagram,USA,2019-08-05 21:00:00,30,15,0.5,Positive,-0.128,Negative,Negative
+Numbness sets in as the weight of loneliness grows heavier.,Loneliness,Negative,Twitter,Canada,2021-02-12 16:45:00,35,18,0.0,Neutral,-0.5994,Negative,Negative
+"Tears fall like raindrops, mourning the end of a cherished friendship.",Grief,Negative,Facebook,UK,2020-11-28 14:20:00,45,22,0.0,Neutral,0.5994,Positive,Positive
+"Despair clouds the mind, feeling adrift in an endless sea of darkness.",Despair,Negative,Instagram,Australia,2016-05-15 22:30:00,55,28,-0.125,Negative,-0.4215,Negative,Negative
+"Shattered by betrayal, trust crumbles like fragile glass.",Betrayal,Negative,Twitter,Germany,2018-09-10 13:15:00,45,22,0.0,Neutral,-0.2732,Negative,Negative
+"Aching heart, the symphony of pain plays in the silence of solitude.",Suffering,Negative,Facebook,Brazil,2022-03-20 19:30:00,50,25,0.0,Neutral,-0.6705,Negative,Negative
+"Emotional storm, a whirlwind of sadness engulfs every thought.",EmotionalStorm,Negative,Instagram,India,2017-07-18 17:45:00,60,30,0.0,Neutral,-0.3182,Negative,Negative
+"Haunted by regrets, the ghost of the past lingers relentlessly.",Regret,Negative,Twitter,France,2018-12-15 10:00:00,35,18,-0.175,Negative,-0.7845,Negative,Negative
+"Torn apart by grief, the echoes of loss reverberate through the soul.",Grief,Negative,Facebook,Italy,2015-06-28 21:15:00,55,28,-0.8,Negative,-0.7579,Negative,Negative
+"Isolation deepens, an emotional winter where warmth is but a distant memory.",Isolation,Negative,Instagram,Japan,2020-04-02 14:20:00,70,35,-0.05,Negative,0.1154,Positive,Positive
+"Soul-crushing disappointment, hopes shattered like fragile glass.",Disappointment,Negative,Twitter,Spain,2019-10-08 18:30:00,40,20,-0.0667,Negative,-0.2732,Negative,Negative
+"Painful echoes of a love once cherished, now lost in the abyss of time.",LostLove,Negative,Facebook,Netherlands,2016-11-22 09:45:00,45,22,-0.1,Negative,0.5106,Positive,Positive
+"Heartache deepens, a solitary journey through the abyss of despair.",Despair,Negative,Instagram,South Africa,2022-08-18 22:00:00,80,40,0.0,Neutral,-0.3182,Negative,Negative
+"Melancholy lingers, a bittersweet serenade in the quietude of solitude.",Melancholy,Negative,Twitter,UK,2017-03-12 23:30:00,35,18,0.0,Neutral,-0.4939,Negative,Negative
+"Bitterness like a poison, seeping into every crevice of the wounded heart.",Bitterness,Negative,Facebook,Australia,2015-12-15 16:15:00,50,25,0.0,Neutral,-0.5719,Negative,Negative
+"Emotional exhaustion, the weight of the world crushing weary shoulders.",Exhaustion,Negative,Instagram,Canada,2021-09-05 13:30:00,70,35,0.2,Positive,-0.6705,Negative,Negative
+"Sorrowful echoes, a symphony of pain played by the strings of loss.",Sorrow,Negative,Twitter,Germany,2018-05-22 20:45:00,35,18,0.0,Neutral,-0.7506,Negative,Negative
+"Darkness descends, engulfing the soul in the shadows of despair.",Darkness,Negative,Facebook,USA,2016-07-10 18:20:00,55,28,0.0,Neutral,-0.5106,Negative,Negative
+"Desperation whispers, the silent plea for a glimmer of hope in the abyss.",Desperation,Negative,Instagram,France,2019-04-30 14:00:00,45,22,0.0,Neutral,-0.0258,Neutral,Neutral
+"Heart in ruins, the remnants of shattered dreams scattered in the wind.",Ruins,Negative,Twitter,Brazil,2022-01-08 11:30:00,40,20,-0.15,Negative,-0.5106,Negative,Negative
+"Shattered by the echoes of a shattered dream, fragments of hope scattered.",Desolation,Negative,Twitter,Australia,2017-09-10 19:15:00,40,20,0.0,Neutral,-0.3182,Negative,Negative
+"Avoiding the thorns of regret, walking barefoot on the path of remorse.",Regret,Negative,Instagram,Canada,2022-04-18 11:30:00,50,25,0.0,Neutral,-0.743,Negative,Negative
+"In the labyrinth of grief, the walls echo with the footsteps of lost joy.",Grief,Negative,Facebook,USA,2018-12-05 21:45:00,35,18,0.0,Neutral,-0.1779,Negative,Negative
+"A soul adrift in the sea of solitude, waves of loneliness crashing relentlessly.",Loneliness,Negative,Twitter,UK,2016-06-28 14:20:00,45,22,0.0,Neutral,-0.4215,Negative,Negative
+"The bitterness of betrayal, a taste that lingers, staining the palate of trust.",Bitterness,Negative,Instagram,Germany,2019-10-22 17:00:00,30,15,0.0,Neutral,-0.4939,Negative,Negative
+"In the ruins of hope, echoes of shattered dreams whisper tales of loss.",Desolation,Negative,Facebook,Brazil,2021-03-15 22:45:00,55,28,-0.15,Negative,-0.4019,Negative,Negative
+"Sinking like a stone in the ocean of heartbreak, each ripple a sigh of despair.",Heartbreak,Negative,Twitter,France,2017-08-10 19:30:00,45,22,0.0,Neutral,-0.5267,Negative,Negative
+"Tears, the ink staining the pages of a journal, a testament to silent grief.",Grief,Negative,Instagram,India,2023-01-28 14:30:00,60,30,-0.4,Negative,-0.6249,Negative,Negative
+"In the wasteland of lost trust, the echoes of broken promises reverberate.",Betrayal,Negative,Facebook,Italy,2016-12-12 10:00:00,50,25,-0.4,Negative,0.128,Positive,Positive
+"Avoiding the shards of shattered dreams, walking the tightrope of resilience.",Resilience,Positive,Twitter,Japan,2020-07-18 15:15:00,70,35,0.0,Neutral,-0.4215,Negative,Negative
+"Suffocating in the silence of solitude, where echoes of laughter once thrived.",Isolation,Negative,Instagram,South Africa,2022-05-20 20:30:00,60,30,-0.5,Negative,0.4939,Positive,Positive
+"Haunted by the specter of lost possibilities, a ghost that refuses to fade away.",Regret,Negative,Twitter,Spain,2019-11-08 14:45:00,35,18,0.0,Neutral,-0.7717,Negative,Negative
+"In the labyrinth of despair, the echoes of a broken heart reverberate endlessly.",Despair,Negative,Facebook,Australia,2017-03-28 22:00:00,55,28,-0.2625,Negative,-0.6597,Negative,Negative
+"Sinking like autumn leaves in the river of sorrow, carried away by the current.",Sorrow,Negative,Instagram,Canada,2020-09-15 18:15:00,45,22,0.0,Neutral,-0.2263,Negative,Negative
+"In the garden of broken dreams, petals fall, a silent testimony to shattered hopes.",Desolation,Negative,Twitter,UK,2018-06-10 13:30:00,40,20,-0.2,Negative,-0.1779,Negative,Negative
+"Tears, the currency of grief, spent in the marketplace of lost love and longing.",Grief,Negative,Facebook,USA,2016-12-22 21:45:00,50,25,-0.1333,Negative,-0.3182,Negative,Negative
+"Wandering in the maze of betrayal, the walls closing in with every wrong turn.",Betrayal,Negative,Instagram,Germany,2021-01-05 16:20:00,30,15,-0.5,Negative,-0.7845,Negative,Negative
+"A soul weathered by the storm of heartbreak, seeking refuge in the calm after.",Heartbreak,Negative,Twitter,Brazil,2019-04-18 11:00:00,45,22,0.3,Positive,-0.34,Negative,Negative
+"In the tapestry of despair, threads of hope unravel, leaving a portrait of sorrow.",Despair,Negative,Facebook,India,2017-08-28 19:30:00,35,18,0.0,Neutral,-0.4215,Negative,Negative
+"Like a withered rose in the garden of love, petals fall, a silent surrender to time.",Loss,Negative,Instagram,France,2023-02-10 14:30:00,55,28,0.3667,Positive,0.7717,Positive,Positive
+"In the void of heartache, echoes of a love song play, each note a pang of longing.",Heartache,Negative,Instagram,Japan,2022-07-10 22:15:00,60,30,0.5,Positive,0.7579,Positive,Positive
+"Nostalgia, a bittersweet dance in the moonlit ballroom of cherished memories.",Nostalgia,Neutral,Twitter,Italy,2019-05-15 21:30:00,35,18,0.0,Neutral,0.4588,Positive,Positive
+"In the symphony of grief, each tear is a note, composing a melancholic melody.",Grief,Negative,Facebook,Germany,2018-11-28 14:00:00,45,22,-0.8,Negative,-0.5423,Negative,Negative
+"Betrayal, a venomous serpent slithering through the garden of trust, poisoning roots.",Betrayal,Negative,Instagram,Canada,2021-03-02 17:45:00,50,25,0.0,Neutral,-0.6486,Negative,Negative
+"Sinking in the quicksand of despair, the harder you fight, the deeper you descend.",Despair,Negative,Twitter,USA,2016-10-18 19:30:00,40,20,-0.1,Negative,-0.5994,Negative,Negative
+"Wandering through the cemetery of lost dreams, tombstones marking untold sorrows.",Desolation,Negative,Facebook,France,2020-08-15 12:30:00,55,28,0.0,Neutral,-0.296,Negative,Negative
+"Swept away by the river of regret, the currents of the past refusing to release.",Regret,Negative,Instagram,UK,2017-04-28 16:20:00,35,18,-0.25,Negative,-0.6705,Negative,Negative
+"Whispers of lost love linger in the attic of the heart, forgotten but not erased.",Loss,Negative,Twitter,Australia,2019-09-10 21:00:00,45,22,0.5,Positive,0.128,Positive,Positive
+"In the gallery of broken promises, each shattered vow framed, a painful exhibition.",Betrayal,Negative,Facebook,Brazil,2022-01-28 13:45:00,30,15,-0.55,Negative,-0.7579,Negative,Negative
+"The echoes of solitude, a silent conversation between a soul and its shadows.",Solitude,Neutral,Instagram,Spain,2016-06-15 22:30:00,60,30,0.0,Neutral,0.0,Neutral,Neutral
+"Dancing on sunshine, each step a celebration of the joy found in simple moments.",Joy,Positive,Instagram,USA,2021-08-20 15:45:00,80,40,0.4,Positive,0.7906,Positive,Positive
+"Laughter echoes in the air, a chorus of happiness that lifts the spirit higher.",Happiness,Positive,Twitter,Canada,2018-04-12 18:30:00,70,35,0.475,Positive,0.8176,Positive,Positive
+"In the garden of contentment, each bloom whispers tales of inner peace and joy.",Contentment,Positive,Facebook,UK,2022-02-15 12:20:00,50,25,0.4,Positive,0.8689,Positive,Positive
+"Chasing dreams under the vibrant sky, a journey fueled by hope and enthusiasm.",Enthusiasm,Positive,Instagram,Australia,2019-10-28 14:15:00,60,30,0.1667,Positive,0.8979,Positive,Positive
+"Serenading the stars with a heart full of gratitude, a melody of thankfulness.",Gratitude,Positive,Twitter,India,2017-12-22 21:00:00,45,22,0.35,Positive,0.7506,Positive,Positive
+"Basking in the glow of accomplishment, each milestone a stepping stone to happiness.",Accomplishment,Positive,Facebook,Germany,2020-06-10 17:30:00,55,28,0.7,Positive,0.5574,Positive,Positive
+"In the dance of positivity, every step is a rhythm, uplifting the soul in harmony.",Positivity,Positive,Instagram,France,2016-09-18 19:45:00,35,18,0.0,Neutral,0.7184,Positive,Positive
+"Overflowing with joy, a cup of laughter shared with friends, a moment cherished.",Joy,Positive,Twitter,Japan,2023-03-10 14:30:00,40,20,0.8,Positive,0.9413,Positive,Positive
+"Draped in the warmth of kindness, a quilt of compassion stitched with love.",Kindness,Positive,Facebook,Brazil,2019-05-05 12:15:00,50,25,0.5,Positive,0.9217,Positive,Positive
+"In the garden of friendships, each bloom a testament to the beauty of camaraderie.",Friendship,Positive,Instagram,South Africa,2018-08-28 16:00:00,60,30,0.0,Neutral,0.7506,Positive,Positive
+"In the embrace of love, each heartbeat is a melody, dancing to the rhythm of affection.",Love,Positive,Twitter,USA,2022-11-15 20:45:00,70,35,0.5,Positive,0.872,Positive,Positive
+"Surrounded by the colors of joy, a canvas painted with laughter and endless smiles.",Joy,Positive,Instagram,Canada,2019-07-02 17:00:00,80,40,0.3375,Positive,0.8779,Positive,Positive
+"In the symphony of excitement, each note is a burst of energy, igniting the soul with fervor.",Excitement,Positive,Facebook,UK,2021-04-18 14:20:00,60,30,0.0,Neutral,0.6486,Positive,Positive
+"A surprise gift, wrapped in anticipation, unfolds a moment of delight and wonder.",Surprise,Neutral,Twitter,Australia,2023-02-05 19:30:00,50,25,0.0,Neutral,0.8519,Positive,Positive
+"Lost in the maze of curiosity, each twist and turn unveils the treasures of discovery.",Curiosity,Neutral,Instagram,India,2018-09-22 12:45:00,45,22,0.0,Neutral,0.128,Positive,Positive
+"Floating on clouds of gratitude, each raindrop a blessing, a shower of thankfulness.",Gratitude,Positive,Facebook,Germany,2016-12-10 21:15:00,55,28,0.0,Neutral,0.8625,Positive,Positive
+"Like a comet of inspiration, streaking through the sky of creativity, leaving trails of brilliance.",Inspiration,Positive,Twitter,France,2020-05-28 16:00:00,35,18,0.0,Neutral,0.9081,Positive,Positive
+"In the celebration of success, fireworks of accomplishment light up the night sky of triumph.",Success,Positive,Instagram,Japan,2017-11-15 22:30:00,45,22,0.35,Positive,0.7783,Positive,Positive
+"A symphony of laughter, each note a key to unlocking the door of boundless happiness.",Happiness,Positive,Facebook,Brazil,2021-08-02 19:00:00,60,30,0.1667,Positive,0.7783,Positive,Positive
+"In the carnival of emotions, the rollercoaster of thrill sends the heart on a wild ride.",Thrill,Positive,Instagram,South Africa,2019-03-28 15:30:00,70,35,0.1,Positive,0.3612,Positive,Positive
+"Standing before the grandeur of the Eiffel Tower, a moment to reflect on the beauty of Parisian dreams.",Reflection,Neutral,Twitter,France,2018-05-12 17:30:00,55,28,0.0,Neutral,0.872,Positive,Positive
+"Lost in the enchantment of Disneyland, each ride a journey into the realm of childhood fantasies.",Enchantment,Positive,Instagram,USA,2022-09-28 15:45:00,60,30,0.0,Neutral,-0.3182,Negative,Negative
+"Exploring the wonders of Ferrari World, the roar of engines creating a symphony of speed.",Excitement,Positive,Facebook,Italy,2019-11-10 14:00:00,45,22,0.0,Neutral,0.296,Positive,Positive
+"Amidst the tulip fields of Keukenhof, a tapestry of colors that paints the soul with springtime joy.",Joy,Positive,Instagram,Netherlands,2021-04-02 18:20:00,70,35,0.8,Positive,0.5859,Positive,Positive
+"Wandering through the historical streets of Kyoto, each step a journey into the heart of Japan's traditions.",Exploration,Neutral,Twitter,Japan,2017-08-22 21:30:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+"In the embrace of the Grand Canyon, nature's masterpiece, a moment to marvel at Earth's grandeur.",Awe,Positive,Instagram,USA,2020-06-15 16:45:00,50,25,0.5,Positive,0.9393,Positive,Positive
+"Journeying through the serenity of Santorini, where each sunset paints the sky with hues of tranquility.",Serenity,Positive,Facebook,Greece,2016-09-10 19:15:00,45,22,0.0,Neutral,0.4215,Positive,Positive
+"Amazed by the architectural marvels of Petra, each stone telling tales of an ancient civilization.",Amazement,Positive,Twitter,Jordan,2023-01-28 13:00:00,60,30,0.0,Neutral,0.7351,Positive,Positive
+"Embarking on a gondola ride in Venice, each canal reflecting the romance of this timeless city.",Romance,Positive,Instagram,Italy,2019-04-18 16:30:00,40,20,0.0,Neutral,0.5574,Positive,Positive
+"At the summit of Machu Picchu, a breathtaking panorama that whispers the secrets of ancient civilizations.",Awe,Positive,Facebook,Peru,2017-11-05 22:00:00,55,28,1.0,Positive,0.4588,Positive,Positive
+"In the heart of New York City, Times Square dazzles with lights, a vibrant spectacle of urban energy.",Excitement,Positive,Instagram,USA,2022-07-20 21:45:00,70,35,0.101,Positive,0.6705,Positive,Positive
+"Captivated by the historical charm of the Colosseum, each stone echoing tales of gladiator valor.",Captivation,Positive,Twitter,Italy,2018-03-15 17:30:00,50,25,0.0,Neutral,0.6486,Positive,Positive
+"Sailing the azure waters of the Maldives, each wave a whisper of serenity in paradise.",Serenity,Positive,Facebook,Maldives,2019-10-28 14:15:00,45,22,0.0,Neutral,0.6369,Positive,Positive
+"In the midst of the Amazon rainforest, a symphony of wildlife creates an orchestra of nature's wonders.",Wonder,Positive,Instagram,Brazil,2021-06-10 16:00:00,60,30,0.0,Neutral,0.4215,Positive,Positive
+"Walking the Great Wall of China, each step a testament to ancient engineering marvels.",Awe,Positive,Twitter,China,2017-08-18 19:30:00,35,18,0.8,Positive,0.7964,Positive,Positive
+"At the summit of Mount Fuji, a breathtaking sunrise that paints the sky with hues of accomplishment.",Accomplishment,Positive,Facebook,Japan,2020-04-15 05:30:00,55,28,1.0,Positive,0.4588,Positive,Positive
+"Exploring the ancient ruins of Angkor Wat, each stone whispering stories of Khmer civilization.",Exploration,Neutral,Instagram,Cambodia,2016-11-22 13:00:00,40,20,-0.15,Negative,-0.4404,Negative,Negative
+"Skiing down the slopes of the Swiss Alps, each turn a dance with the majesty of snow-capped peaks.",Adventure,Positive,Twitter,Switzerland,2019-01-10 14:45:00,45,22,-0.1556,Negative,0.0,Neutral,Neutral
+"In the tranquility of Kyoto's bamboo forest, whispers of ancient Zen wisdom echo through the groves.",Tranquility,Positive,Facebook,Japan,2023-02-28 16:20:00,50,25,0.0,Neutral,0.7351,Positive,Positive
+"Cruising the fjords of Norway, each icy landscape a breathtaking masterpiece of nature's grandeur.",Grandeur,Positive,Instagram,Norway,2018-05-28 18:30:00,45,22,0.45,Positive,0.8885,Positive,Positive
+"At the front row of Adele's concert, each note of 'Someone Like You' resonates with soul-stirring emotion.",Emotion,Neutral,Instagram,USA,2022-09-15 20:00:00,80,40,0.0,Neutral,0.3612,Positive,Positive
+"Dancing under the stars at Beyoncé's live show, feeling the power of 'Single Ladies' in every move.",Energy,Positive,Twitter,USA,2019-07-28 21:30:00,70,35,0.0325,Neutral,0.128,Positive,Positive
+"In the crowd of a Taylor Swift concert, the lyrics of 'Love Story' create an enchanting fairy tale.",Enchantment,Positive,Facebook,USA,2021-05-10 19:45:00,60,30,0.5,Positive,0.7964,Positive,Positive
+"Rocking out to the guitar solos at a Queen tribute concert, a journey back in time with Freddie's spirit.",Nostalgia,Neutral,Instagram,UK,2018-12-02 22:15:00,45,22,0.0,Neutral,0.1779,Positive,Positive
+"Swaying to Ed Sheeran's acoustic melodies, a serene evening filled with 'Perfect' moments.",Serenity,Positive,Twitter,UK,2020-08-18 19:00:00,35,18,0.7,Positive,0.4588,Positive,Positive
+"Immersed in the pulsating beats of a Bruno Mars concert, where 'Uptown Funk' becomes a city of joy.",Joy,Positive,Facebook,USA,2017-03-28 20:30:00,55,28,0.8,Positive,0.5859,Positive,Positive
+"At a Michael Jackson tribute show, moonwalking through the hits, a celebration of the King of Pop.",Celebration,Positive,Instagram,USA,2022-01-15 21:15:00,50,25,0.0,Neutral,0.0,Neutral,Neutral
+"Swinging to the rhythms of a Frank Sinatra tribute, feeling the timeless charm of 'Fly Me to the Moon'.",Charm,Positive,Twitter,USA,2019-06-10 18:45:00,45,22,0.8,Positive,0.4939,Positive,Positive
+"In the mosh pit of a Metallica concert, the thunderous chords create a symphony of headbanging ecstasy.",Ecstasy,Positive,Facebook,USA,2023-03-20 22:30:00,70,35,0.0,Neutral,0.7184,Positive,Positive
+"Experiencing the magic of a Coldplay concert, where 'Fix You' becomes a beacon of hope in the night.",Hope,Positive,Instagram,UK,2016-11-28 19:00:00,60,30,0.5,Positive,0.4404,Positive,Positive
+"At a Justin Bieber concert, the infectious beats of 'Baby' create a dance floor of unbridled enthusiasm.",Enthusiasm,Positive,Instagram,Canada,2018-08-05 20:00:00,80,40,0.0,Neutral,0.6124,Positive,Positive
+"In the spotlight at a Lady Gaga show, each costume change is a metamorphosis of creativity and artistry.",Creativity,Positive,Twitter,USA,2021-04-15 21:30:00,70,35,0.0,Neutral,0.3818,Positive,Positive
+"Immersed in the soulful melodies of Adele, tears flow freely, moved by the emotion of 'Hello'.",Emotion,Neutral,Facebook,UK,2019-11-28 19:45:00,60,30,0.4,Positive,0.25,Positive,Positive
+"Drenched in confetti at a Katy Perry concert, a kaleidoscope of colors igniting the night sky.",Colorful,Positive,Instagram,USA,2020-06-22 22:00:00,45,22,0.0,Neutral,0.0,Neutral,Neutral
+"In the audience of a Jay-Z performance, the lyrics of 'Empire State of Mind' become an anthem of pride.",Pride,Positive,Twitter,USA,2017-09-10 20:15:00,35,18,0.0,Neutral,0.34,Positive,Positive
+"Dancing to Shakira's rhythmic beats, hips swaying to the hypnotic charm of 'Hips Don't Lie'.",Hypnotic,Positive,Facebook,Colombia,2022-02-28 21:15:00,55,28,0.0,Neutral,0.4019,Positive,Positive
+"At a U2 concert, the anthemic chords of 'With or Without You' create a timeless moment of connection.",Connection,Positive,Instagram,Ireland,2016-05-15 19:30:00,50,25,0.0,Neutral,-0.2057,Negative,Negative
+"Rocking out at a Guns N' Roses show, the iconic riffs of 'Sweet Child o' Mine' echoing in the night.",Iconic,Positive,Twitter,USA,2018-12-10 22:30:00,45,22,0.425,Positive,0.4588,Positive,Positive
+"In the crowd of an Ariana Grande concert, the high notes of 'Into You' create a euphoric symphony.",Euphoria,Positive,Facebook,USA,2023-01-22 20:00:00,70,35,0.16,Positive,0.743,Positive,Positive
+"Swaying to the reggae vibes of Bob Marley's tribute concert, each chord a journey to Jamaica's soul.",Journey,Neutral,Instagram,Jamaica,2020-03-05 18:45:00,60,30,0.0,Neutral,0.0,Neutral,Neutral
+"Captivated by the spellbinding plot twists, the audience applauds, experiencing a rollercoaster of emotions at the movie premiere.",Excitement,Positive,Twitter,USA,2018-10-12 20:00:00,80,40,0.0,Neutral,0.6124,Positive,Positive
+"As the credits roll, a profound sense of nostalgia washes over, reminiscent of cherished moments in classic films.",Nostalgia,Neutral,Instagram,UK,2019-06-25 22:15:00,70,35,0.0833,Positive,0.7003,Positive,Positive
+"Streaming the latest web series, the viewer is engrossed in the characters' journey, feeling a sense of connection and empathy.",Engagement,Positive,Facebook,Canada,2020-07-08 19:30:00,60,30,0.5,Positive,0.2732,Positive,Positive
+"At the film festival, the indie filmmaker's creation receives a standing ovation, evoking pride and a sense of accomplishment.",Pride,Positive,Twitter,Australia,2017-09-18 21:45:00,45,22,0.0,Neutral,0.7717,Positive,Positive
+"Watching a heartwarming family drama, tears flow freely as the characters overcome challenges, leaving the viewer with a warm glow.",Touched,Positive,Instagram,India,2021-01-15 18:00:00,55,28,0.5,Positive,0.743,Positive,Positive
+"At the Oscars, the actor graciously accepts an award, radiating joy and gratitude for the recognition of their outstanding performance.",Gratitude,Positive,Facebook,USA,2016-02-28 20:30:00,35,18,0.65,Positive,0.9648,Positive,Positive
+"Discovering a hidden gem in the world of documentaries, the viewer is enlightened and inspired, feeling a renewed sense of curiosity.",Inspiration,Positive,Twitter,France,2022-04-20 17:30:00,45,22,-0.1667,Negative,0.7845,Positive,Positive
+"As the movie credits roll, the viewer experiences a mix of awe and contemplation, pondering the deeper meanings woven into the storyline.",Contemplation,Neutral,Instagram,Germany,2019-11-05 21:15:00,55,28,0.0,Neutral,0.3612,Positive,Positive
+"Binge-watching a thrilling crime series, the suspense keeps the viewer on the edge of their seat, creating a rush of adrenaline.",Suspense,Neutral,Facebook,Japan,2015-07-12 22:00:00,70,35,0.25,Positive,0.2023,Positive,Positive
+"As the closing scene unfolds, a sense of satisfaction washes over, completing the cinematic journey with a profound and fulfilling ending.",Satisfaction,Positive,Twitter,Brazil,2020-09-10 19:45:00,45,22,0.0417,Neutral,0.4404,Positive,Positive
+"Celebrating a historic victory in the World Cup, the nation erupts in joy, united by the triumph of their football team.",Joy,Positive,Instagram,Brazil,2018-07-15 21:30:00,80,40,0.4,Positive,0.9246,Positive,Positive
+"At the Olympics, the athlete's perseverance shines through, earning a gold medal and inspiring a generation with their remarkable achievement.",Inspiration,Positive,Twitter,USA,2020-08-08 19:45:00,70,35,0.625,Positive,0.8591,Positive,Positive
+"In the cricket championship, a nail-biting finish leaves fans on the edge of their seats, experiencing a rollercoaster of emotions.",Excitement,Positive,Facebook,India,2019-06-25 22:15:00,60,30,0.0,Neutral,0.4404,Positive,Positive
+"Witnessing a record-breaking marathon, spectators are filled with awe and admiration for the endurance and dedication of the runners.",Admiration,Positive,Instagram,Kenya,2021-11-07 17:30:00,45,22,0.4,Positive,0.5423,Positive,Positive
+"In the tennis grand slam, a fierce rivalry unfolds, captivating fans with a display of skill and sportsmanship on the world stage.",Captivation,Positive,Twitter,UK,2017-09-10 20:15:00,55,28,0.5,Positive,0.1027,Positive,Positive
+"Cheering for the underdog in the basketball finals, the crowd erupts in applause as the team defies odds to claim the championship title.",Triumph,Positive,Facebook,USA,2022-06-20 21:00:00,35,18,0.0,Neutral,0.8402,Positive,Positive
+"At the golf tournament, the golfer's precision and focus lead to a stunning victory, leaving spectators in awe of their exceptional skill.",Awe,Positive,Instagram,Scotland,2016-04-10 18:30:00,45,22,0.5833,Positive,0.3818,Positive,Positive
+"Experiencing the thrill of a high-speed Formula 1 race, fans are on the edge of their seats as drivers compete for the championship.",Thrill,Positive,Twitter,Germany,2019-11-24 19:45:00,55,28,0.16,Positive,0.6597,Positive,Positive
+"In the cycling world championship, the climber conquers challenging terrains, symbolizing determination and achievement against all odds.",Determination,Positive,Facebook,Italy,2015-09-28 22:30:00,70,35,0.5,Positive,0.7351,Positive,Positive
+"Witnessing a heartwarming comeback in the hockey finals, fans share tears of joy as the team secures a historic victory after adversity.",Heartwarming,Positive,Instagram,Canada,2020-12-12 20:00:00,45,22,0.4,Positive,0.7717,Positive,Positive
+"After a series of defeats, the soccer team faces disappointment, struggling to find the silver lining in a challenging season.",Disappointment,Negative,Twitter,Brazil,2019-11-02 18:45:00,80,40,-0.05,Neutral,-0.7783,Negative,Negative
+"In the tennis tournament, a highly anticipated player experiences a setback, leaving fans in shock and questioning the unforeseen turn of events.",Frustration,Negative,Instagram,USA,2018-07-10 21:15:00,70,35,0.16,Positive,-0.4588,Negative,Negative
+"Facing a defeat in the championship, the boxer reflects on the challenges, vowing to return stronger and more determined in the next bout.",Reflection,Neutral,Facebook,UK,2020-09-18 19:30:00,60,30,0.25,Positive,0.6697,Positive,Positive
+"In the midst of a cycling race, a tire blowout leads to frustration for the cyclist, who valiantly tries to overcome the unexpected obstacle.",Obstacle,Negative,Twitter,France,2017-05-15 22:00:00,45,22,0.0,Neutral,-0.6808,Negative,Negative
+"The gymnast's unexpected fall during a routine sparks a wave of sympathy from the audience, highlighting the vulnerability of sports.",Sympathy,Neutral,Instagram,Japan,2021-04-05 20:15:00,55,28,0.1,Positive,0.1531,Positive,Positive
+"In the golf tournament, a missed crucial putt results in defeat, causing the golfer to reflect on the pressure of high-stakes competition.",Pressure,Negative,Facebook,USA,2016-08-20 18:30:00,35,18,0.08,Positive,-0.7506,Negative,Negative
+"Experiencing a series of losses in the basketball season, the team grapples with frustration, determined to turn the tide with renewed effort.",Renewed Effort,Neutral,Twitter,Canada,2019-02-12 19:45:00,45,22,0.0,Neutral,-0.5267,Negative,Negative
+"Despite meticulous training, the swimmer faces disappointment as a split-second miscalculation costs them the lead in a crucial race.",Miscalculation,Negative,Instagram,Australia,2015-06-28 20:00:00,55,28,-0.2,Negative,-0.5106,Negative,Negative
+"The weightlifter's failed attempt at a personal record results in frustration, highlighting the challenging nature of pushing physical limits.",Challenge,Neutral,Facebook,Germany,2022-01-08 21:30:00,70,35,0.0,Neutral,-0.7003,Negative,Negative
+"In the midst of a soccer match, an unexpected own goal creates a moment of despair for the player, as teammates console and encourage them.",Despair,Negative,Twitter,Spain,2018-12-15 20:15:00,45,22,0.35,Positive,0.4767,Positive,Positive
+"In the serene beauty of a sunset, nature unfolds a canvas of colors, evoking a sense of tranquility and wonder.",Tranquility,Positive,Instagram,Canada,2021-07-10 19:00:00,80,40,0.0,Neutral,0.8625,Positive,Positive
+"Embarking on a spontaneous road trip, the traveler discovers hidden gems, creating memories that will be cherished for a lifetime.",Adventure,Positive,Twitter,USA,2019-09-28 20:30:00,70,35,0.2167,Positive,0.6705,Positive,Positive
+"Amidst the bustling city, a quiet café becomes a sanctuary for reflection, where a cup of coffee brings solace to the wandering mind.",Solace,Positive,Facebook,France,2022-03-15 18:45:00,60,30,0.0,Neutral,0.0,Neutral,Neutral
+"Exploring the vibrant street art of a cultural neighborhood, each mural tells a story, infusing the city with creativity and expression.",Creativity,Positive,Instagram,Brazil,2017-11-05 21:15:00,45,22,0.1333,Positive,0.7184,Positive,Positive
+"In the world of science, a breakthrough discovery unfolds, pushing the boundaries of knowledge and opening new frontiers of exploration.",Breakthrough,Positive,Twitter,Germany,2020-05-20 16:30:00,55,28,0.1364,Positive,0.2263,Positive,Positive
+"Connecting with the melody of a live orchestra, the music enthusiast experiences a symphony that resonates deep within the soul.",Harmony,Positive,Facebook,UK,2016-08-22 19:45:00,35,18,0.0682,Positive,0.3612,Positive,Positive
+"Embracing the aroma of freshly baked bread, the home chef finds joy in the art of baking, creating delicious memories for loved ones.",Joy in Baking,Positive,Instagram,India,2023-04-10 17:15:00,45,22,0.7,Positive,0.9274,Positive,Positive
+"Wandering through a historical museum, the history enthusiast becomes immersed in the tales of the past, envisioning bygone eras.",Envisioning History,Neutral,Twitter,Italy,2015-12-18 18:00:00,55,28,-0.125,Negative,0.3612,Positive,Positive
+"In the realm of literature, a captivating novel transports the reader to distant lands, weaving a tapestry of imagination and escape.",Imagination,Positive,Facebook,Japan,2021-10-08 20:30:00,70,35,0.2,Positive,0.4588,Positive,Positive
+"Capturing the essence of a bustling market, the photographer freezes moments in time, each frame telling a unique and vibrant story.",Vibrancy,Positive,Instagram,Australia,2019-03-22 21:45:00,45,22,0.2708,Positive,0.5106,Positive,Positive
+"Underneath the city lights, the dancer expresses emotions through graceful movements, creating a mesmerizing performance under the night sky.",Mesmerizing,Positive,Twitter,USA,2018-06-15 22:00:00,80,40,0.3,Positive,0.6369,Positive,Positive
+"In the heart of a bustling market, the street food connoisseur indulges in a culinary adventure, savoring diverse flavors and aromas.",Culinary Adventure,Positive,Instagram,Thailand,2019-08-28 19:30:00,70,35,0.0,Neutral,0.3182,Positive,Positive
+"As the first snowflake descends, the winter enthusiast eagerly prepares for a season of frosty delights, anticipating the magic of snow-covered landscapes.",Winter Magic,Positive,Facebook,Canada,2022-12-01 17:45:00,60,30,0.375,Positive,0.7964,Positive,Positive
+"Amidst the pages of a captivating mystery novel, the reader unravels clues and secrets, experiencing a thrilling journey of suspense and revelation.",Thrilling Journey,Positive,Twitter,UK,2017-04-10 21:15:00,45,22,0.375,Positive,0.6597,Positive,Positive
+"Surrounded by the vibrant colors of a flower garden, the gardener nurtures blossoms, finding joy in the beauty of nature's ever-changing canvas.",Nature's Beauty,Positive,Instagram,Australia,2020-05-15 18:30:00,55,28,0.4833,Positive,0.9313,Positive,Positive
+"At the astronomy observatory, the stargazer marvels at the vastness of the cosmos, contemplating the mysteries hidden within the celestial expanse.",Celestial Wonder,Positive,Facebook,USA,2016-09-22 20:00:00,35,18,-0.1667,Negative,0.4588,Positive,Positive
+"Engulfed in the aroma of freshly brewed coffee, the writer finds inspiration in every sip, embarking on a journey of creativity and prose.",Creative Inspiration,Positive,Twitter,France,2023-02-12 19:45:00,45,22,0.3,Positive,0.7184,Positive,Positive
+"In the realm of fashion, the designer unveils a collection that tells a story, blending innovation and tradition on the runway of creativity.",Runway Creativity,Positive,Instagram,Italy,2015-11-10 21:00:00,55,28,0.0,Neutral,0.6369,Positive,Positive
+"As the waves crash against the shore, the surfer embraces the thrill of riding the ocean's energy, capturing the essence of freedom in each wave.",Ocean's Freedom,Positive,Facebook,Brazil,2021-07-20 18:15:00,45,22,0.0,Neutral,0.7269,Positive,Positive
+"Exploring the historical architecture of an ancient city, the traveler is transported to a bygone era, where each monument whispers tales of the past.",Whispers of the Past,Neutral,Twitter,Greece,2019-04-18 20:30:00,70,35,-0.125,Negative,0.0,Neutral,Neutral
+Successfully avoided eye contact with my crush in the hallway. Mission accomplished. #TeenCrush #StealthMode,Excitement,Positive,Twitter,USA,2023-05-20 19:45:00,30,15,0.475,Positive,0.4767,Positive,Positive
+Ran out of snacks during a movie marathon. Crisis level: Emergency! #MovieNightStruggles #TeenProblems,Boredom,Negative,Instagram,Canada,2023-05-21 21:00:00,35,18,0.0,Neutral,-0.7901,Negative,Negative
+Spent an hour choosing the perfect filter for a selfie. The struggle for that Instagram aesthetic is real. #SelfieQueen #TeenVibes,Joy,Positive,Facebook,UK,2023-05-22 14:30:00,45,22,0.3667,Positive,0.34,Positive,Positive
+Lost my headphones again. How do they vanish into thin air? #HeadphoneMystery #TeenLife,Frustration,Negative,Twitter,USA,2023-05-23 16:45:00,40,20,-0.4,Negative,-0.3182,Negative,Negative
+Decided to study for exams but ended up making memes about studying instead. Procrastination level: Expert. #ProcrastinationNation #TeenConfessions,Surprise,Neutral,Instagram,Canada,2023-05-24 13:15:00,50,25,0.0,Neutral,0.0,Neutral,Neutral
+"Got dressed for the day, then remembered it's Saturday. Oops. #WeekendVibes #TeenStruggles",Indifference,Neutral,Facebook,USA,2023-05-25 19:00:00,40,20,0.0,Neutral,0.0,Neutral,Neutral
+Survived a group project without any drama. Miracles do happen. #GroupProjectSuccess #TeenAchievements,Satisfaction,Positive,Twitter,UK,2023-05-26 14:20:00,55,28,0.0,Neutral,0.5106,Positive,Positive
+"Entered the kitchen with the intention to cook. Left with a bag of chips. Cooking is overrated, anyway. #MasterChefInTraining #TeenHumor",Disgust,Negative,Instagram,Canada,2023-05-27 21:15:00,45,22,0.0,Neutral,0.0,Neutral,Neutral
+"Staring at the clock in class, waiting for the bell to ring like it's the most exciting event of the day. #ClassCountdown #TeenLife",Surprise,Neutral,Facebook,USA,2023-05-28 12:00:00,35,18,0.4,Positive,0.7178,Positive,Positive
+"Discovered a new book series and spent the whole night reading. Who needs sleep, anyway? #BookwormLife #LateNightReading",Joy,Positive,Twitter,UK,2023-05-29 23:30:00,60,30,0.0788,Positive,0.0,Neutral,Neutral
+"Bought a new video game, played for hours, forgot to eat. The ultimate gaming session. #GamerLife #NoFoodGaming",Excitement,Positive,Instagram,USA,2023-05-30 20:45:00,45,22,-0.0879,Negative,0.34,Positive,Positive
+Spent the day binge-watching a new series. Productivity level: Zero. #LazyDay #TVSeriesMarathon,Joy,Positive,Facebook,Canada,2023-05-31 15:30:00,70,35,0.0182,Neutral,0.0,Neutral,Neutral
+Caught up on the latest fashion trends and now planning a shopping spree. #Fashionista #TrendyTeen,Excitement,Positive,Twitter,USA,2023-06-01 18:00:00,40,20,0.5,Positive,0.0,Neutral,Neutral
+Decided to learn a new instrument. Day one: Still trying to figure out how to hold it. #MusicNovice #LearningJourney,Frustration,Negative,Instagram,UK,2023-06-02 14:30:00,55,28,0.1364,Positive,0.0,Neutral,Neutral
+Spent hours creating the perfect playlist for every mood. Music is my therapy. #PlaylistMaker #TeenMusicLover,Joy,Positive,Facebook,Canada,2023-06-03 21:15:00,45,22,0.45,Positive,0.7096,Positive,Positive
+Successfully cooked a gourmet meal for the family. Chef skills unlocked! #ChefMode #TeenChef,Pride,Positive,Twitter,USA,2023-06-04 19:30:00,50,25,0.75,Positive,0.5411,Positive,Positive
+Spontaneously booked a weekend getaway. Adventure awaits! #TravelBug #WeekendEscape,Excitement,Positive,Instagram,UK,2023-06-05 10:00:00,35,18,0.6,Positive,0.4389,Positive,Positive
+Attended a concert and danced the night away. Music is the heartbeat of life. #ConcertVibes #DanceAllNight,Joy,Positive,Facebook,Canada,2023-06-06 22:30:00,55,28,0.0,Neutral,0.0,Neutral,Neutral
+Rediscovered childhood cartoons and had a nostalgia-filled marathon. #CartoonNostalgia #TeenMemories,Joy,Positive,Twitter,USA,2023-06-07 12:45:00,45,22,0.4,Positive,0.0,Neutral,Neutral
+Embarked on a DIY home decor project. Let's hope it turns out better than last time. #DIYAdventure #TeenHomeDecor,Excitement,Positive,Instagram,UK,2023-06-08 16:00:00,70,35,0.25,Positive,0.7003,Positive,Positive
+"Spent the afternoon at a museum, pretending to be cultured. Art enthusiast in the making. #MuseumDay #TeenArtLover",Curiosity,Neutral,Facebook,USA,2023-06-09 14:00:00,40,20,-0.1,Negative,0.4404,Positive,Positive
+Started a blog about random thoughts and musings. Blogging is the new diary. #BloggerLife #TeenBlogger,Curiosity,Neutral,Twitter,Canada,2023-06-10 17:30:00,60,30,-0.1818,Negative,0.0,Neutral,Neutral
+Relishing a peaceful afternoon with a classic novel. Quiet moments are the best moments. #BookLover #PeacefulAfternoon,Contentment,Positive,Instagram,USA,2023-06-11 15:30:00,70,35,0.3542,Positive,0.9062,Positive,Positive
+"Reflecting on a lifetime of memories, each wrinkle tells a story. Embracing the beauty of aging. #LifeReflections #BeautyInAging",Gratitude,Positive,Twitter,UK,2023-06-12 18:00:00,55,28,0.0,Neutral,0.5859,Positive,Positive
+Exploring the world of digital art. It's never too late to discover new passions. #DigitalArtistry #LateBloomer,Curiosity,Neutral,Facebook,Canada,2023-06-13 14:45:00,45,22,-0.0545,Negative,0.4939,Positive,Positive
+Savoring the flavors of a home-cooked meal. Simple joys are the heart of happiness. #HomeCooking #SimpleJoys,Contentment,Positive,Instagram,USA,2023-06-14 19:30:00,50,25,0.35,Positive,0.7783,Positive,Positive
+Embarking on a journey of learning a new language. The mind stays young with every new word. #LanguageLearning #NeverTooLate,Curiosity,Neutral,Twitter,UK,2023-06-15 12:15:00,60,30,0.1242,Positive,0.0,Neutral,Neutral
+"Attended a classical music concert, feeling the timeless melodies resonate. Music transcends generations. #ClassicalMusic #TimelessMelodies",Joy,Positive,Facebook,Canada,2023-06-16 21:45:00,35,18,0.0,Neutral,0.128,Positive,Positive
+Capturing the beauty of nature through photography. Every snapshot is a treasure. #NaturePhotography #SeniorPhotographer,Joy,Positive,Instagram,USA,2023-06-17 15:00:00,70,35,0.0,Neutral,0.7184,Positive,Positive
+"Reconnecting with old friends over a cup of tea. Friendship, the true essence of companionship. #OldFriends #Companionship",Contentment,Positive,Twitter,UK,2023-06-18 11:30:00,55,28,0.225,Positive,0.8316,Positive,Positive
+"Embarked on a road trip to revisit cherished places from the past. Nostalgia, the ultimate travel companion. #RoadTrip #NostalgiaTour",Joy,Positive,Facebook,Canada,2023-06-19 16:30:00,45,22,-0.125,Negative,0.5106,Positive,Positive
+"Joined a community choir, harmonizing with fellow voices. Music creates bonds that withstand time. #CommunityChoir #HarmonyInAging",Joy,Positive,Instagram,USA,2023-06-20 14:20:00,40,20,0.0,Neutral,0.5423,Positive,Positive
+"Exploring the art of meditation, finding tranquility in the stillness of the mind. #MeditationJourney #TranquilMind",Contentment,Positive,Twitter,UK,2023-06-21 19:00:00,35,18,0.0,Neutral,0.4215,Positive,Positive
+"Taking a stroll in the garden, appreciating the beauty of blooming flowers. Nature's wonders never cease. #GardenWalk #FloralBeauty",Contentment,Positive,Facebook,USA,2023-06-22 13:45:00,50,25,0.0,Neutral,0.7717,Positive,Positive
+"Sipping on a favorite vintage wine, each sip telling a story of the years gone by. Cheers to a life well-lived. #WineLover #VintageCheers",Contentment,Positive,Instagram,UK,2023-06-23 18:45:00,55,28,0.5,Positive,0.7269,Positive,Positive
+"Participated in a community art class, unleashing creativity in the golden years. Art has no age limit. #ArtClass #SeniorArtistry",Joy,Positive,Twitter,Canada,2023-06-24 16:15:00,45,22,0.3,Positive,0.1027,Positive,Positive
+"Embarking on a journey of writing a memoir, documenting a lifetime of experiences. Every story matters. #MemoirWriting #SeniorStories",Gratitude,Positive,Facebook,USA,2023-06-25 20:30:00,70,35,0.0,Neutral,0.0258,Neutral,Neutral
+"Attended a lecture on history, always fascinated by the lessons from the past. Learning is a lifelong adventure. #HistoryLecture #SeniorLearning",Curiosity,Neutral,Instagram,UK,2023-06-26 14:00:00,60,30,-0.175,Negative,0.6597,Positive,Positive
+"Rediscovered the joy of cooking traditional family recipes. The kitchen, a place of cherished memories. #FamilyRecipes #SeniorCooking",Contentment,Positive,Twitter,USA,2023-06-27 17:45:00,40,20,0.4,Positive,0.7964,Positive,Positive
+"Joined a nature photography club, capturing the beauty of the great outdoors. Every click is a connection to nature. #NaturePhotography #SeniorPhotographer",Joy,Positive,Facebook,UK,2023-06-28 22:15:00,35,18,0.8,Positive,0.836,Positive,Positive
+"Attended a jazz concert and swayed to the rhythm of timeless tunes. Music, a constant companion in the golden years. #JazzConcert #SeniorMusic",Joy,Positive,Instagram,USA,2023-06-29 16:30:00,50,25,0.15,Positive,0.0,Neutral,Neutral
+"Joined a writing group, penning down thoughts and reflections. Writing, a journey into the depths of the soul. #WritingGroup #SeniorWriter",Gratitude,Positive,Twitter,UK,2023-06-30 19:30:00,55,28,-0.1556,Negative,0.0,Neutral,Neutral
+"Embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #SoloTravel #SeniorExplorer",Excitement,Positive,Instagram,USA,2023-07-01 14:00:00,60,30,0.3682,Positive,0.7269,Positive,Positive
+"Attended a vintage car show, reminiscing about the classics that once ruled the roads. Nostalgia in every rev. #VintageCars #ClassicRides",Joy,Positive,Facebook,UK,2023-07-02 18:30:00,45,22,0.0,Neutral,0.0,Neutral,Neutral
+"Started a community garden, growing not just plants but friendships too. Green thumbs unite! #CommunityGarden #SeniorGardener",Joy,Positive,Twitter,Canada,2023-07-03 12:45:00,55,28,-0.2,Negative,0.6177,Positive,Positive
+"Hosted a family dinner, where laughter echoed louder than the clinking of utensils. Family, the heart of happiness. #FamilyDinner #SeniorHost",Contentment,Positive,Instagram,USA,2023-07-04 17:00:00,70,35,0.7,Positive,0.7783,Positive,Positive
+"Enrolled in a dance class for seniors, moving to the rhythm of life. Age is just a number on the dance floor. #DanceClass #SeniorDancer",Joy,Positive,Twitter,UK,2023-07-05 20:15:00,35,18,0.0,Neutral,0.0772,Positive,Positive
+"Visited an art gallery, appreciating the brushstrokes that tell tales of creativity. Art, an eternal companion. #ArtGallery #SeniorArtLover",Joy,Positive,Facebook,USA,2023-07-06 14:30:00,50,25,0.0,Neutral,0.6705,Positive,Positive
+"Started a book club for seniors, where discussions are as lively as the characters in the novels. #BookClub #SeniorReaders",Joy,Positive,Instagram,UK,2023-07-07 19:45:00,45,22,0.1364,Positive,0.4404,Positive,Positive
+"Hosted a picnic in the park, basking in the warmth of friendship and sunshine. Simple joys, timeless memories. #ParkPicnic #SeniorJoy",Contentment,Positive,Twitter,Canada,2023-07-08 16:00:00,60,30,0.0,Neutral,0.9062,Positive,Positive
+"Participated in a local theater production, proving that the stage belongs to every age. #TheaterProduction #SeniorActor",Joy,Positive,Facebook,USA,2023-07-09 22:30:00,40,20,0.0,Neutral,0.0,Neutral,Neutral
+"Embarked on a hiking adventure, conquering trails and relishing the beauty of nature. Age is just a number on the mountaintop. #HikingAdventure #SeniorHiker",Excitement,Positive,Instagram,UK,2023-07-10 14:20:00,55,28,0.0,Neutral,0.8402,Positive,Positive
+Hosted a photography exhibition featuring snapshots of a life well-lived. Every photo has a story to tell. #PhotographyExhibition #SeniorPhotographer,Gratitude,Positive,Twitter,Canada,2023-07-11 18:45:00,45,22,0.0,Neutral,0.0,Neutral,Neutral
+"Joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #CyclingClub #SeniorCyclist",Excitement,Positive,Facebook,USA,2023-07-12 13:45:00,50,25,0.0,Neutral,0.6908,Positive,Positive
+"Attended a wine tasting event, savoring the richness of flavors that age like fine wine. Cheers to the golden years! #WineTasting #SeniorWineLover",Joy,Positive,Instagram,UK,2023-07-13 20:00:00,70,35,0.3583,Positive,0.8718,Positive,Positive
+"Started learning ballroom dancing, gliding gracefully across the dance floor. Ageless elegance in every step. #BallroomDancing #SeniorDancer",Joy,Positive,Twitter,USA,2023-07-14 16:15:00,40,20,0.0,Neutral,0.7579,Positive,Positive
+"Organized a community painting event, turning blank canvases into a masterpiece of shared creativity. #PaintingEvent #SeniorArtist",Joy,Positive,Facebook,Canada,2023-07-15 19:30:00,55,28,0.0,Neutral,0.8442,Positive,Positive
+"Hosted a 'memory lane' evening with old friends, reminiscing about the adventures that shaped our lives. #MemoryLane #SeniorReminiscing",Gratitude,Positive,Instagram,USA,2023-07-16 14:00:00,60,30,0.1,Positive,0.6705,Positive,Positive
+"Joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #AstronomyClub #SeniorStargazer",Curiosity,Neutral,Twitter,UK,2023-07-17 22:15:00,35,18,0.0,Neutral,0.0,Neutral,Neutral
+"Attended a local jazz festival, tapping toes to the tunes that have stood the test of time. Music, a lifelong love affair. #JazzFestival #SeniorMusicLover",Joy,Positive,Facebook,USA,2023-07-18 16:30:00,50,25,0.1333,Positive,0.8126,Positive,Positive
+"Started a blog sharing the wisdom gained through the years, proving that every day is a chance to learn and grow. #SeniorWisdom #Blog",Gratitude,Positive,Instagram,UK,2023-07-19 19:45:00,45,22,0.0,Neutral,0.8689,Positive,Positive
+"Participated in a charity run, proving that age is no barrier to supporting meaningful causes. #CharityRun #SeniorRunner",Excitement,Positive,Twitter,Canada,2023-07-20 17:00:00,60,30,0.375,Positive,0.6486,Positive,Positive
+"Survived a challenging physics exam. Equations, you won't defeat me!",Relief,Positive,Instagram,USA,2023-08-01 13:30:00,40,20,0.5,Positive,0.7699,Positive,Positive
+Exploring the world of coding. Debugging is an adventure on its own! #CodingJourney #HighSchoolCoder,Excitement,Positive,Twitter,UK,2023-08-02 14:45:00,50,25,0.6,Positive,0.3802,Positive,Positive
+"Joined the school debate team. Words are my weapons, and I'm ready for battle!",Excitement,Positive,Facebook,Canada,2023-08-03 12:15:00,35,18,0.2,Positive,-0.5093,Negative,Negative
+"Started a photography club at school. Capturing moments, one snapshot at a time!",Joy,Positive,Instagram,USA,2023-08-04 16:30:00,45,22,0.0,Neutral,0.0,Neutral,Neutral
+"Daydreaming about the upcoming prom. The dress, the dance – it's a fairytale in the making!",Excitement,Positive,Twitter,Canada,2023-08-05 19:45:00,60,30,0.0,Neutral,0.0,Neutral,Neutral
+Convinced the teacher to have class outdoors. Learning equations with a side of fresh air!,Positive,Positive,Facebook,USA,2023-08-06 14:00:00,55,28,0.3,Positive,0.6476,Positive,Positive
+"Accidentally spilled paint in art class. Abstract art, right? #ArtClassAdventures #HighSchoolArtist",Embarrassed,Negative,Instagram,UK,2023-08-07 19:45:00,45,22,0.2857,Positive,-0.34,Negative,Negative
+Trying to master the perfect kickflip on my skateboard. Skating into the weekend like a pro!,Excitement,Positive,Twitter,Canada,2023-08-08 16:00:00,60,30,1.0,Positive,0.7574,Positive,Positive
+Bonding with friends over the latest K-pop sensation. Fangirling at its finest!,Joy,Positive,Facebook,USA,2023-08-09 22:30:00,40,20,0.5,Positive,0.5255,Positive,Positive
+Spent hours perfecting a chemistry experiment. Mixing potions like a wizard!,Joy,Positive,Instagram,UK,2023-08-10 14:20:00,55,28,-0.1,Negative,0.7263,Positive,Positive
+Successfully organized a surprise birthday party for a friend. Party planning expert mode: Achieved!,Joy,Positive,Twitter,Canada,2023-08-11 18:45:00,45,22,0.75,Positive,0.9215,Positive,Positive
+"Joined the drama club to unleash my inner actor. Lights, camera, action!",Excitement,Positive,Facebook,USA,2023-08-12 13:45:00,50,25,0.05,Positive,0.0,Neutral,Neutral
+Got my hands on the latest fantasy novel. Diving into realms of magic and adventure!,Excitement,Positive,Instagram,UK,2023-08-13 20:00:00,70,35,0.5,Positive,0.636,Positive,Positive
+Mastering the art of the perfect doodle during boring classes. Doodles: A+!,Joy,Positive,Twitter,USA,2023-08-14 16:15:00,40,20,0.0,Neutral,0.4003,Positive,Positive
+Attempting to break the school record for the longest handstand. Wish me luck!,Excitement,Positive,Facebook,Canada,2023-08-15 19:30:00,55,28,0.0,Neutral,0.7177,Positive,Positive
+Sneaking snacks into class like a pro. The art of snack-smuggling is a sacred skill!,Mischievous,Neutral,Instagram,USA,2023-08-16 14:00:00,60,30,0.0,Neutral,0.4199,Positive,Positive
+Hosting a sleepover with friends this weekend. Preparing for a night of laughter and memories!,Excitement,Positive,Twitter,UK,2023-08-17 22:15:00,35,18,0.0,Neutral,0.7644,Positive,Positive
+"Spent hours on a TikTok dance, only to realize I have two left feet. Dance fail: Unleashed!",Embarrassed,Negative,Facebook,USA,2023-08-18 16:30:00,50,25,-0.15,Negative,-0.5848,Negative,Negative
+Accidentally liked my crush's old photo while stalking their profile. Awkward level: Maximum!,Embarrassed,Negative,Instagram,UK,2023-08-19 19:45:00,45,22,0.0333,Neutral,-0.126,Negative,Negative
+Tried to impress my crush with a smooth conversation. Ended up spilling my drink. Smooth level: Nonexistent!,Embarrassed,Negative,Twitter,Canada,2023-08-20 17:00:00,60,30,0.4,Positive,0.3802,Positive,Positive
+Mastered the art of creating paper airplanes during lecture. Paper planes: Soaring to new heights!,Joy,Positive,Instagram,USA,2023-08-21 15:45:00,30,15,0.1364,Positive,0.3595,Positive,Positive
+Trying to set a new trend by juggling textbooks between classes. Academic juggling: A unique skill!,Excitement,Positive,Facebook,Canada,2023-08-22 12:30:00,40,22,0.1705,Positive,0.0,Neutral,Neutral
+Hiding a snack stash in my backpack for emergency cravings. Snack ninja mode: Activated!,Mischievous,Neutral,Twitter,USA,2023-08-23 16:45:00,55,28,0.0,Neutral,-0.6239,Negative,Negative
+Planning a surprise scavenger hunt for friends. Anticipating the thrill and excitement!,Excitement,Positive,Instagram,UK,2023-08-24 18:20:00,38,20,0.0,Neutral,0.8805,Positive,Positive
+Danced in the rain to celebrate the end of exams. Rain dance: Unexpectedly refreshing!,Joy,Positive,Facebook,Canada,2023-08-25 14:15:00,50,25,0.5,Positive,0.6114,Positive,Positive
+Accidentally sent a text meant for a friend to the class group chat. Texting fail: Oops moment!,Embarrassed,Negative,Twitter,USA,2023-08-26 17:30:00,35,18,-0.5,Negative,-0.4574,Negative,Negative
+Tried a magic trick to impress classmates. Magic fail: Where did that rabbit go?,Embarrassed,Negative,Instagram,UK,2023-08-27 20:45:00,45,22,0.1667,Positive,-0.2023,Negative,Negative
+Perfecting the art of creating origami during a dull lecture. Origami mastery: A+!,Joy,Positive,Twitter,USA,2023-08-28 16:00:00,36,18,-0.2917,Negative,0.4753,Positive,Positive
+Attempting to set a new record for the most consecutive hacky sack kicks. Hacky sack skills: Unleashed!,Excitement,Positive,Instagram,Canada,2023-08-29 13:45:00,48,26,0.3182,Positive,0.0,Neutral,Neutral
+Creating a secret handshake with friends. Friendship level: Expert!,Joy,Positive,Facebook,USA,2023-08-30 17:30:00,40,20,-0.4,Negative,0.8172,Positive,Positive
+Embarking on a mission to find the best burger joint in town. Burger connoisseur: Reporting for duty!,Excitement,Positive,Twitter,UK,2023-08-31 20:15:00,42,24,1.0,Positive,0.6696,Positive,Positive
+Practicing a stand-up comedy routine for the upcoming talent show. Comedy gig: In the making!,Joy,Positive,Instagram,Canada,2023-09-01 14:45:00,39,21,0.0,Neutral,0.7959,Positive,Positive
+Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment!,Embarrassed,Negative,Facebook,USA,2023-09-02 18:30:00,33,17,0.0,Neutral,-0.4199,Negative,Negative
+Attempting to impress the teacher with an elaborate science experiment. Science geek mode: Activated!,Excitement,Positive,Twitter,UK,2023-09-03 22:00:00,44,23,0.5,Positive,0.3382,Positive,Positive
+Crafting intricate friendship bracelets for the whole squad. Friendship level: Expert weaver!,Joy,Positive,Instagram,USA,2023-09-04 15:15:00,37,19,0.2,Positive,0.7712,Positive,Positive
+Attempting to beat the record for the most consecutive cartwheels. Cartwheel challenge: Underway!,Excitement,Positive,Twitter,Canada,2023-09-05 12:30:00,52,27,0.5,Positive,0.1511,Positive,Positive
+Organizing a movie marathon with friends. Popcorn and cinematic adventures await!,Joy,Positive,Facebook,UK,2023-09-06 16:45:00,43,22,0.0,Neutral,0.7345,Positive,Positive
+Experimenting with a new hair color. A bold change for a bold semester!,Excitement,Positive,Instagram,USA,2023-09-07 18:20:00,39,20,0.2677,Positive,0.6696,Positive,Positive
+Building a time capsule to capture memories for the future. Time-traveling emotions!,Joy,Positive,Facebook,Canada,2023-09-08 14:15:00,48,26,0.0,Neutral,0.0,Neutral,Neutral
+Accidentally walked into the wrong classroom on the first day. Classroom mix-up: Awkward start!,Embarrassed,Negative,Twitter,USA,2023-09-09 17:30:00,32,16,-0.2833,Negative,-0.75,Negative,Negative
+Trying out a new smoothie recipe for a healthy start to the week. Smoothie enthusiast: Level up!,Excitement,Positive,Instagram,UK,2023-09-10 20:45:00,42,23,0.3182,Positive,0.6696,Positive,Positive
+Reflecting on the challenges of the school year. Feeling a bit overwhelmed with assignments.,Sad,Negative,Twitter,USA,2023-09-11 15:45:00,28,15,0.0,Neutral,0.25,Positive,Positive
+Encountered some mean-spirited comments online. Dealing with online hate is never easy.,Hate,Negative,Instagram,Canada,2023-09-12 12:30:00,36,18,-0.2073,Negative,-0.7274,Negative,Negative
+Had a bad day at school. Everything seems to be going wrong.,Bad,Negative,Facebook,UK,2023-09-13 16:45:00,40,20,-0.6,Negative,-0.765,Negative,Negative
+Feeling down after not making the sports team. Disappointment lingers.,Sad,Negative,Twitter,USA,2023-09-14 18:20:00,34,17,-0.3778,Negative,-0.4215,Negative,Negative
+Witnessed a heated argument in the cafeteria. Unpleasant atmosphere at lunch.,Hate,Negative,Instagram,Canada,2023-09-15 14:15:00,41,21,-0.65,Negative,-0.6808,Negative,Negative
+Received a not-so-great grade on a major project. Academic frustration setting in.,Bad,Negative,Facebook,UK,2023-09-16 17:30:00,38,19,0.2875,Positive,-0.4767,Negative,Negative
+Dealing with a personal setback. Sometimes life throws unexpected challenges.,Sad,Negative,Twitter,USA,2023-09-17 20:45:00,44,22,0.05,Positive,0.0772,Positive,Positive
+Feeling lonely on a Saturday night. Sometimes solitude hits harder than expected.,Sad,Negative,Instagram,Canada,2023-09-18 22:00:00,31,16,-0.1,Negative,-0.25,Negative,Negative
+Experiencing cyberbullying. Hateful messages online are disheartening.,Hate,Negative,Facebook,UK,2023-09-19 15:15:00,27,14,0.0,Neutral,-0.7184,Negative,Negative
+Caught in a torrential rainstorm without an umbrella. Today's weather is just bad luck.,Bad,Negative,Twitter,USA,2023-09-20 12:30:00,35,18,-0.7,Negative,-0.128,Negative,Negative
+Missing an important event due to unforeseen circumstances. A day filled with sadness.,Sad,Negative,Instagram,Canada,2023-09-21 16:45:00,39,20,0.1188,Positive,-0.5106,Negative,Negative
+Dealing with unfounded rumors circulating about personal life. Rumors can be hurtful.,Hate,Negative,Facebook,UK,2023-09-22 18:20:00,46,23,0.0,Neutral,-0.5267,Negative,Negative
+Got a flat tire on the way to an important meeting. Talk about a series of bad events!,Bad,Negative,Twitter,USA,2023-09-23 14:15:00,50,25,-0.1083,Negative,-0.4574,Negative,Negative
+Feeling a sense of emptiness after a close friend moves away. Farewells are always sad.,Sad,Negative,Instagram,Canada,2023-09-24 17:30:00,42,21,-0.5,Negative,-0.3182,Negative,Negative
+Facing rejection from a dream college. Disheartened but determined to explore other paths.,Sad,Negative,Facebook,UK,2023-09-25 20:45:00,37,19,-0.125,Negative,0.0644,Positive,Positive
+Encountering online toxicity during a gaming session. Hateful comments can ruin the fun.,Hate,Negative,Twitter,USA,2023-09-26 14:15:00,32,16,0.3,Positive,-0.5719,Negative,Negative
+Having a bad hair day and feeling self-conscious. Bad hair days can affect confidence.,Bad,Negative,Instagram,Canada,2023-09-27 17:30:00,36,18,-0.4333,Negative,-0.4939,Negative,Negative
+Feeling a sense of despair after a major project failure. Hard work didn't pay off this time.,Sad,Negative,Facebook,UK,2023-09-28 22:00:00,41,21,-0.1819,Negative,-0.6374,Negative,Negative
+Experiencing hate comments for expressing personal opinions. Online negativity prevails.,Hate,Negative,Twitter,USA,2023-09-29 15:45:00,48,24,-0.4,Negative,-0.7906,Negative,Negative
+Having a string of bad luck with constant technology malfunctions. Tech troubles galore!,Bad,Negative,Instagram,Canada,2023-09-30 18:20:00,43,22,-0.35,Negative,-0.5848,Negative,Negative
+Missing out on a long-anticipated event due to unexpected circumstances. A day filled with sadness.,Sad,Negative,Facebook,UK,2023-10-01 14:15:00,39,20,0.025,Neutral,-0.6249,Negative,Negative
+Trying out a new study technique for upcoming exams. Exploring different learning strategies.,Neutral,Neutral,Instagram,USA,2023-10-02 16:45:00,42,23,0.0682,Positive,0.0,Neutral,Neutral
+Organizing a community cleanup event for a cleaner neighborhood. Promoting environmental awareness.,Neutral,Neutral,Twitter,Canada,2023-10-03 12:30:00,50,26,0.0,Neutral,0.4939,Positive,Positive
+Sharing favorite book recommendations with classmates. Building a mini book club.,Neutral,Neutral,Facebook,UK,2023-10-04 18:20:00,38,19,0.5,Positive,0.7003,Positive,Positive
+Experimenting with a new recipe for a school bake sale. Baking adventures in the kitchen.,Neutral,Neutral,Instagram,USA,2023-10-05 14:15:00,43,21,0.1364,Positive,0.34,Positive,Positive
+Collaborating on a school project with peers. Teamwork makes the dream work.,Neutral,Neutral,Twitter,Canada,2023-10-06 17:30:00,36,18,0.0,Neutral,0.25,Positive,Positive
+Attending a school club meeting to explore new interests. Dabbling in extracurricular activities.,Neutral,Neutral,Instagram,UK,2023-10-07 20:45:00,45,22,0.1364,Positive,0.25,Positive,Positive
+Exploring a new part-time job opportunity for gaining work experience. Career development in progress.,Neutral,Neutral,Facebook,USA,2023-10-08 15:15:00,48,24,0.1364,Positive,0.8126,Positive,Positive
+Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities.,Neutral,Neutral,Twitter,Canada,2023-10-09 22:00:00,40,20,0.0,Neutral,0.0,Neutral,Neutral
+Exploring a new hobby of photography during free time. Capturing moments through a lens.,Neutral,Neutral,Instagram,UK,2023-10-10 14:15:00,49,25,0.2682,Positive,0.5106,Positive,Positive
+Participating in a science fair to showcase a unique experiment. Sharing knowledge with peers.,Neutral,Neutral,Facebook,USA,2023-10-11 16:45:00,37,19,0.5375,Positive,0.6249,Positive,Positive
+Attending a workshop on time management to enhance organizational skills. Striving for efficiency.,Neutral,Neutral,Twitter,Canada,2023-10-12 18:20:00,44,23,0.0,Neutral,0.3612,Positive,Positive
+Volunteering at a local charity event to give back to the community. Contributing to social causes.,Neutral,Neutral,Instagram,UK,2023-10-13 12:30:00,39,20,0.0111,Neutral,0.4215,Positive,Positive
+Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action.,Neutral,Neutral,Facebook,USA,2023-10-14 17:30:00,35,18,0.1,Positive,0.6124,Positive,Positive
+Participating in a debate club to enhance critical thinking and communication skills. Intellectual engagement in progress.,Neutral,Neutral,Twitter,Canada,2023-10-15 20:45:00,43,22,0.15,Positive,0.7783,Positive,Positive
+Celebrating a friend's birthday with a surprise party. Joyful moments and laughter all around!,Happy,Positive,Instagram,UK,2023-10-16 15:45:00,52,27,0.0,Neutral,0.9422,Positive,Positive
+Successfully completing a challenging coding project. Excitement for overcoming coding hurdles!,Happy,Positive,Twitter,USA,2023-10-17 12:30:00,48,24,0.625,Positive,0.807,Positive,Positive
+Attending a school talent show to support classmates. Applauding the diverse talents on display!,Happy,Positive,Facebook,Canada,2023-10-18 16:45:00,38,19,0.0,Neutral,0.8977,Positive,Positive
+"Exploring a new hiking trail with friends over the weekend. Nature, laughter, and good vibes!",Happy,Positive,Instagram,UK,2023-10-19 18:20:00,42,21,0.4182,Positive,0.8588,Positive,Positive
+Winning a friendly sports competition against rival schools. Victory celebrations in full swing!,Happy,Positive,Twitter,USA,2023-10-20 14:15:00,50,26,0.4083,Positive,0.784,Positive,Positive
+Receiving a heartfelt letter from a pen pal in another country. Connecting across the globe!,Happy,Positive,Facebook,Canada,2023-10-21 17:30:00,45,23,0.0,Neutral,0.5848,Positive,Positive
+Creating a beautiful mural with fellow art enthusiasts. The power of collaboration and creativity!,Happy,Positive,Instagram,UK,2023-10-22 20:45:00,43,22,0.85,Positive,0.8858,Positive,Positive
+Participating in a school-wide art exhibition. Witnessing creativity and spreading positive vibes!,Happy,Positive,Instagram,USA,2015-11-10 16:45:00,44,23,0.0636,Positive,0.7574,Positive,Positive
+Achieving a personal best in a track and field competition. The thrill of victory and self-improvement!,Happy,Positive,Twitter,Canada,2016-09-14 12:30:00,51,26,0.5,Positive,0.7901,Positive,Positive
+Collaborating on a science project that received recognition at a regional fair. Science triumphs and smiles!,Happy,Positive,Facebook,UK,2017-08-18 18:20:00,39,20,0.7,Positive,0.8268,Positive,Positive
+"Attending a surprise birthday party organized by friends. Surrounded by love, laughter, and good company!",Happy,Positive,Instagram,USA,2018-06-22 14:15:00,48,25,0.6,Positive,0.9551,Positive,Positive
+Successfully fundraising for a school charity initiative. The joy of giving back to the community!,Happy,Positive,Twitter,Canada,2019-04-05 17:30:00,42,22,0.5167,Positive,0.9098,Positive,Positive
+"Participating in a multicultural festival, celebrating diversity with music, dance, and delicious food!",Happy,Positive,Facebook,UK,2020-02-29 20:45:00,43,21,1.0,Positive,0.8977,Positive,Positive
+"Organizing a virtual talent show during challenging times, bringing smiles to classmates' faces!",Happy,Positive,Instagram,USA,2020-11-15 15:15:00,47,24,0.5,Positive,0.7777,Positive,Positive

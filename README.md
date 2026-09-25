@@ -10,7 +10,7 @@ Le programme comprend 3 niveaux, avec 3 tâches proposées par niveau (2 à réa
 |---|---|---|---|
 | Level 1 — Basic | ✅ Terminé | Task 1 (Data Cleaning & Preprocessing), Task 2 (EDA) | [`level1-basic/`](./level1-basic) |
 | Level 2 — Intermediate | ✅ Terminé | Task 2 (Time Serie Analysis), Task 3 (Clustering Analysis ) | [`level2-intermediate/`](./level2-intermediate) | 
-| Level 3 — Advanced | ⏳ À venir | — | `level3-advanced/` |
+| Level 3 — Advanced | ✅ Terminé | Task 1(Predictive Model), Task 3(Natural Language Processing) | [`level3-advanced/`](./level3-advanced) |
 
 
 
